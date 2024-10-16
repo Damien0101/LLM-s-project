@@ -1,0 +1,264 @@
+Page 1 Text:
+hey! Homepage - Tools
+
+6. TOOLS
+
+6.1. VISIBILITE DANS LES TOOLS | 6.2. SALESFORCE
+
+6.3. ADMIN PORTAL TOOL 6.4. OUT OF BUNDLE NOTIFICATIONS SMS
+
+RETOURNER A LA PAGE PRINCIPALE
+
+6. TOOLS
+
+6.1. VISIBILITY IN TOOLS
+
+Au cours des premiers mois, nous vous demanderons de ne pas utiliser l'outil Orange Love pour les clients de Hey !
+Nous développerons probablement d'autres template et moyens de communication avec eux plus tard.
+
+Comment les reconnaitre ?
+
+Salesforce
+
+Le Account Name a toujours la mention HEY Account :
+
+Account Name Status
+
+Matthieu Fores - HEY Account Customer
+
+Parent Account Segment
+
+HEY Residential
+
+Latest Refresh Date @
+
+Activation imported account
+
+OMGT
+
+Au Order level Global Information - customer , vous verrez dans le Segment HEY RESIDENTIAL :
+
+Page 2 Text:
+VY Onder 106313952
+
+Order Type:Commercial Status Last Update-20/08/2021 10:57:38
+Order Status:COMPLETE Order Stage-ORDER CLOSED
+Creation Date:20/08/2021 10:47:09 egment:H!
+
+[ | | i
+
+‘VY Giobal information
+
+Customer | Billing Address | Billing Account I CLS Details f
+
+Title:Mr. First Name:Geert
+Last Name-Willems Company Name:
+Language-NL VAT Number
+BSCS Customer 1D-1.769314 IS NewCust-true
+E-Mail Address:
+
+FM First Name: FM Last Name:
+Project Leader- SMS Communication-false
+BSCS
+
+Go to Billing tab and you'll get the dedicated Customergroupe HEY_Res (of HEY_Soho) :
+
+| 1.8249452 MATTHIEU FORES © Consumer © Business
+
+[pcos (25)
+| 251087202
+:
+
+
+Page 3 Text:
+(f&\ Frame Relay
+Legs Mobistar FR
+
+@ Fictive CLI (03909085 )
+# Volume A
+Cable activation
+°
+
+o
+
+o
+
+Cable installation
+Cable Internet South
+Volume B
+¢@ Content Billing Internet
+¢ Easy Switch ID
+
+@ Hey Internet
+
+Conclusion - Chaque fois que vous voyez la mention “hey !", n'envoyez pas de messages OLT au client.
+
+iMX
+
+| case wrormarion x
+Case category COLLECTION Type Initial doc ACCOUNT ea
+Case reference 1.7725252 Lang DUTCH Created by TOM_CRM2IMX2
+Cust. group “HEYRES Case manager CEULEMANS CURT ECA
+Structure ref
+Cust. id 2843630
+[iwvotve parry A | KEV FINANCIAL INDICATORS “
+Name BELMADJ TH Oobebito 0.00
+First name SAMI Balance Que 0.00
+Address tine 1 BERKENHOFSTRAAT 13//
+Address line 2 BEL 2800 MECHELEN
+Phones 473581045
+Lang. DUTCH
+Situation
+| worketow sraruses a
+Active procedures: 1 eB MANUAL MANUAL ES)
+Y¢ 6 liv=-~ a 5D [roanen: 1 necono |
+
+Début de la page
+
+6.2. SALESFORCE
+
+= MOBILE - WM: B2C Salesforce - MOBILE // Tab hey!
+™ CABLE - WM: B2C Salesforce - CABLE // Tab hey!
+
+Hey! customers are identied as "HEY ACCOUNT " on the parent account..
+
+Page 4 Text:
+Account
+i Matthieu Fores - HEY Account |.4|
+
+Status Language Segment Warning
+Customer FR HEY Residential
+
+Account Name Status
+Matthieu Fores - HEY Account f Customer
+
+Parent Account Segment
+HEY Residential
+
+Latest Refresh Date @
+
+Activation imported account
+
+ACTIVE ASSETS
+
+Number Activation Date Status End of Last Modified Date
+Loyalty
+0032477 31-08-2022 ‘Active 22-12-2022 14:22 @
+
+095942
+
+0032477 Inactive e
+995942 31-08-2022 30-07-2023 10:32
+
+0032477 Acti e
+995942 13-10-2022 30-07-2023 10:34
+
+
+Page 5 Text:
+ACTIVE ASSETS
+
+Number Activation Date Status End of Last Modified Dat
+
+Loyalty
+
+oO Y heylInternet 0390908 ~2 activ 07-07-2023 14:02
+
+5
+
+Internet Basic
+07-07-2023 07-07-2023 14:02
+
+Cable Access 0390908 Active
+South 5 07-07-2023
+
+Active
+07-07-2923
+
+Attention : Pour toutes modifications via Salesforce, nous recevons un message d'erreur (une capture d'cran ci-dessous) alors
+que le client reoit la confirmation en changeant le statut du contrat en" sign" : ON-5839624/ON-5833415.
+
+Page 6 Text:
+. « + @coogx ~~ - o x
+
+ATTENTION : veuillez noter qu'il est impossible de fournir un duplicata de contrat au client.
+Son mail de confirmation qu'il recoit aprés avoir fait sa demande sur le site fait office de contrat.
+
+Si le client a perdu ce mail, dites lui que vous vous ne pouvez pas lui en fournir une copie. Le contrat n’est pas soumis a
+conditions particuliéres, donc il peut le modifier ou le résilier quand il le veut.
+
+Début de la page
+
+6.4. OUT OF BUNDLE NOTIFICATIONS SMS
+
+Ces notifications sms sont envoyés via l'outil MBC.
+
+DESCRIPTION SMS
+
+hey!: tu as consommé 80 % de ton volume de surf. Nous
+
+80% usage of embedded data t'avertirons quand ton volume sera presque épuisé. Tu
+allowance pourras alors continuer a surfer au prix de 0,01 €/MB ou
+10,24 €/GB jusqu'a 50 € en plus de ton abonnement
+
+hey!: tu as presque consommé l'intégralité de ton volume
+95% usage of embedded data de surf. Quand il sera épuisé, tu pourras continuer a surfer
+allowance au prix de 0,01 €/MB ou 10,24 €/GB jusqu'a 50 € en plus
+de ton abonnement
+
+PPU_ 1st usage hey!: tu as consommé l'intégralité de ton volume de surf.
+A partir de maintenant, tu peux continuer a surfer au prix
+
+
+Page 7 Text:
+de 0,01 €/MB ou 10,24 €/GB jusqu'a 50 € en plus de ton
+abonnement
+
+PPU _ 15€ threshold
+
+PPU _ 30€ threshold
+
+PPU _ 50€ capping limit
+
+TDC_ 1st usage
+
+hey!: tu as déja surfé pour un montant de 15 € de surf
+hors abonnement. Nous t'avertirons a nouveau lorsque tu
+auras atteint 30 €. Suis ta consommation sur My hey!
+
+hey!: tu as déja surfé pour un montant de 30 € de surf
+hors abonnement. Nous t'avertirons a nouveau lorsque tu
+auras atteint 50 €. Suis ta consommation sur My hey!
+
+hey! tu as surfé pour un montant de 50 € hors
+abonnement. Tu n’as plus accés a internet sur ton
+smartphone jusqu’a ton prochain cycle de facturation. Tu
+veux encore surfer? Va dans My hey! et choisis une
+formule avec plus de surf, ou connecte-toi via WIFI
+
+hey!: tu surfes actuellement a I’étranger. Tu peux
+continuer jusqu'a un montant de max 60 €. Tu recevras un
+SMS quand tu auras presque atteint cette limite. Infos et
+
+tarifs sur https://www.heytelecom.be/fr/roaming ou dans
+tes SMS recus
+
+TDC_ 80% usage
+
+hey!: tu as atteint 80 % de ta limite de surf a l'étranger. Ta
+connexion internet se bloquera quand tu auras atteint 60
+€
+
+TDC_ 95% usage
+
+hey!: tu as presque atteint ta limite de surf a l'étranger. Ta
+connexion internet se bloquera quand tu auras atteint 60
+€
+
+TDC_ 100% usage
+
+hey!: tu as atteint la limite de surf de 60 € a l'étranger
+pour le mois de facturation en cours. Ta connexion
+internet est donc bloquée
+
+Début de la page
+

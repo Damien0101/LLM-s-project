@@ -1,0 +1,263 @@
+Page 1 Text:
+hey! Homepage - Tools
+
+6. TOOLS
+
+6.1. ZICHTBAARHEID IN DE TOOLS | 6.2. SALESFORCE
+
+6.3. ADMIN PORTAL TOOL 6.4. OUT OF BUNDLE SMS NOTIFICATIES
+
+GA TERUG NAAR HOOFDPAGINA
+
+6. TOOLS
+
+6.1. VISIBILITY IN TOOLS
+
+In de eerste paar maanden zullen we je vragen om de Orange Love tool niet te gebruiken voor hey!
+
+Waarschijnlijk zullen wij later nog andere sjablonen en manieren om met hen te communiceren ontwikkelen.
+
+Hoe herken je ze?
+
+Salesforce
+
+De Account Name heeft altijd de vermelding HEY Account
+
+Account Name Status
+
+Matthieu Fores - HEY Account Customer
+
+arent Account Segment
+
+HEY Residential
+
+Latest Refresh Date @
+
+Activation imported account
+
+OMGT
+
+In order level en global Information - Customer, zie je in de Segment HEY RESIDENTIAL :
+
+Page 2 Text:
+VY Onder 106313952
+
+Order Type:Commercial Status Last Update-20/08/2021 10:57:38
+Order Status:COMPLETE Order Stage-ORDER CLOSED
+Creation Date:20/08/2021 10:47:09 egment:H!
+
+[ | | i
+
+‘VY Giobal information
+
+Customer | Billing Address | Billing Account I CLS Details f
+
+Title:Mr. First Name:Geert
+Last Name-Willems Company Name:
+Language-NL VAT Number
+BSCS Customer 1D-1.769314 IS NewCust-true
+E-Mail Address:
+
+FM First Name: FM Last Name:
+Project Leader- SMS Communication-false
+
+BSCS
+
+Ga in de tab Billing en je krijgt de speciale Customergroupe HEY Res (of HEY Soho) :
+
+[78249452 MATTHIEU FORES © Consumer © Business : 4
+
+'[Bco8 (25)
+| 251081202
+:
+
+
+Page 3 Text:
+Conclusie
+
+(f&\ Frame Relay
+Legs Mobistar FR
+
+@ Fictive CLI (03909085 )
+# Volume A
+Cable activation
+°
+
+o
+
+o
+
+Cable installation
+Cable Internet South
+Volume B
+¢@ Content Billing Internet
+¢ Easy Switch ID
+
+@ Hey Internet
+
+Telkens als je de vermelding Hey ziet, Stuur geen OLT berichten naar de cliént.
+
+| case wrormarion
+
+Case category COLLECTION Type Initial doc ACCOUNT ea
+Case reference 1.7725252 Lang DUTCH Created by TCM_CRM2IMX2
+Cust. group Case manager CEULEMANS CURT ECA
+Structure ref
+Cust. id 2843630
+[iwvotve parry A | KEV FINANCIAL INDICATORS “
+Name BELMADJ TH Oobebito 0.00
+First name SAMI Balance Que 0.00
+Address tine 1 BERKENHOFSTRAAT 13//
+Address line 2 BEL 2800 MECHELEN
+Phones 473581045
+Lang. DUTCH
+Situation
+| worketow sraruses a
+Active procedures 1 eB MANUAL MANUAL ES)
+Y + G ii- 2) [roanen: 1 necono |
+
+6.2. SALESFORCE
+
+Terug naar boven
+
+= MOBILE - WM: B2C Salesforce - MOBILE // Tab hey!
+= CABLE - WM: B2C Salesforce - CABLE // Tab hey!
+
+Hey! klanten worden geidentificeerd als "HEY ACCOUNT" op de hoofdaccount.
+
+Page 4 Text:
+Account
+i Matthieu Fores - HEY Account |.4|
+
+Status Language Segment Warning
+Customer FR HEY Residential
+
+Account Name Status
+Matthieu Fores - HEY Account f Customer
+
+Parent Account Segment
+HEY Residential
+
+Latest Refresh Date @
+
+Activation imported account
+
+ACTIVE ASSETS
+
+Number Activation Date Status End of Last Modified Date
+Loyalty
+0032477 31-08-2022 ‘Active 22-12-2022 14:22 @
+
+095942
+
+0032477 Inactive e
+995942 31-08-2022 30-07-2023 10:32
+
+0032477 Acti e
+995942 13-10-2022 30-07-2023 10:34
+
+
+Page 5 Text:
+ACTIVE ASSETS
+
+O Y hey Internet
+
+Internet Basic
+
+Cable Access
+South
+
+Let op: Voor alle wijzigingen via Salesforce krijgen we een foutmelding (een screenshot hieronder) terwijl de klant bevestiging
+krijgt door de status van het contract te wijzigen in ondertekend: ON-5839624/ON-5833415.
+
+. en i & oe 299308 o - @
+
+
+Page 6 Text:
+OPGELET : Het is onmogelijk om de klant een duplicaat van het contract te bezorgen.
+
+De bevestigingsmail die de klant ontvangt na zijn aanvraag op de website is het contract.Als de klant deze e-mail kwijt is, zeg
+hem dan dat u hem geen kopie kunt bezorgen.
+
+Het contract is aan geen enkele bijzondere voorwaarde gebonden, zodat zij het kunnen wijzigen of opzeggen wanneer zij
+
+maar willen.
+
+6.4. OUT OF BUNDLE SMS NOTIFICATIES
+
+Deze sms‘en worden vannuit de tool MBC gestuurd.
+
+BESCHRIJVING
+
+80% usage of embedded data
+allowance
+
+hey!: je hebt 80 % van je surfvolume opgebruikt. Je wordt
+opnieuw verwittigd als je data bijna op is. Daarna kan je
+verder surfen aan 0,01 €/MB of 10,24 €/GB tot 50 €
+bovenop je abonnement
+
+95% usage of embedded data
+allowance
+
+hey!: je hebt je surfvolume bijna opgebruikt. Zodra dit
+helemaal op is, kan je verder blijven surfen aan 0,01 €/MB
+of 10,24 €/GB tot 50 € bovenop je abonnement
+
+PPU_ 1st usage
+
+hey!: je hebt je surfvolume volledig opgebruikt. Vanaf nu
+surf je verder aan 0,01 €/MB of 10,24 €/GB tot 50 €
+bovenop je abonnement
+
+PPU _ 15€ threshold
+
+hey!: je hebt 15 € aan surfvolume buiten abonnement
+verbruikt. Bij 30 € sturen we je een volgende verwittiging.
+Volg je verbruik op My hey!
+
+PPU _ 30€ threshold
+
+PPU _ 50€ capping limit
+
+hey!: je hebt 30 € aan surfvolume buiten abonnement
+verbruikt. Bij 50 € sturen we je een volgende verwittiging.
+Volg je verbruik op My hey!
+
+hey! je hebt voor 50 € gesurft bovenop je abonnement. Je
+hebt geen toegang meer tot het mobiele internet tot je
+volgende factuurperiode. Verder surfen? Ga naar My hey!
+en kies voor een tarief met meer surfvolume. Of surf via
+wifi-connecties
+
+TDC_ 1st usage
+
+hey!: je surft nu in het buitenland. Je kan maximaal 60 €
+uitgeven. We sturen je een sms wanneer je bijna aan je
+limiet zit. Info en
+
+tarieven: https://www.heytelecom.be/nl/roaming of hou je
+sms‘en in de gaten
+
+TDC_ 80% usage
+
+hey!: je hebt nu 80 % van je surflimiet in het buitenland
+verbruikt. Denk eraan dat je internetverbinding wordt
+
+Terug naar boven
+
+Page 7 Text:
+geblokkeerd zodra je 60 € hebt opgebruikt
+
+hey!: je hebt bijna je surflimiet in het buitenland bereikt.
+Denk eraan dat je internetverbinding wordt geblokkeerd
+zodra je 60 € hebt opgebruikt
+
+TDC_ 95% usage
+
+hey!: je hebt je surflimiet van 60 € in het buitenland voor
+TDC_ 100% usage deze factuurperiode bereikt. Je internetverbinding in
+roaming is nu geblokkeerd
+
+Terug naar boven
+

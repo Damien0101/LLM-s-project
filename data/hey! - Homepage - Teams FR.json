@@ -1,0 +1,262 @@
+Page 1 Text:
+hey! Homepage - Teams
+
+2. TEAMS
+
+2.1. BOT MOBILE 2.2. PROVISIONING MOBILE
+
+2.3. BILLING / COLLECTION / PAYMENT | 2.4. RETENTION
+
+2.5. ENTRA
+
+RETOURNER A LA PAGE PRINCIPALE
+
+2. TEAMS
+
+2.1. BOT MOBILE
+
+Actions dans Salesforce pour les équipes BOT voir WM MOBILE - Technical Trouble Mobile Homepage
+
+ATTENTION EXCEPTIONS !!
+
+Les SMS Premium (excepté les tickets de bus et votes-TV) et les appels vers les numéros spéciaux sont bloqués a l’activation
+de I' abonnement, ici aussi pour éviter les mauvaises surprises sur la facture.
+
+Chez hey! nous bloquons les achats multimédia. Nous n’aimons pas les surprises
+négatives sur les factures de nos clients ©
+
+Si tu désires faire un achat via internet ou Playstore / App store, choisis un autre
+moyen de paiement (par carte de crédit ou bancontact par exemple).
+
+®% Google play, Multimedia
+
+Voici les numéros considérés comme " Votes Tv" :
+
+61xxx Jeux TV 2euros
+
+IMPORTANT: Veuillez noter qu'il n'est pas possible de activer/désactiver les services dans Salesforce pour hey!.
+
+Page 2 Text:
+Les services WHA et VAS sont activés automatiquement.
+
+= Si le client se plaint que le service n'est pas activé => assigner un case vers Provisioning (PPS levels: Change -
+
+Mobile - Options / Services (VAS) | Rootcause: Payment Responsible)
+TechM activera alors le service dans SalesForce.
+
+AGENT hey!: Le chatbot expliquera au client comment trouver le code PUK via l'espace client. Le client ne parvient pas le
+retrouver ? Vrifiez l'identit du client et donnez-lui le code PUK. N'envoyez pas le client vers I'IVR car il sera reconnu comme un
+client HEY et entendra un message lui indiquant de nous contacter via le chat.
+
+Call issue
+
+SMS issue
+
+Coverage issue
+
+Data issue
+
+Saleforce B2C & NOM
+
+Premium Number
+
+2.2. PROVISIONING MOBILE
+
+Actions dans Salesforce pour l'équipe Provisioning : Voir WM OMGT for ALL
+
+ATTENTION EXCEPTIONS MNP !!
+
+Début de la page
+
+Lorsque le client migre de hey ! vers Orange ou inversement, nous devons encoder la demande dans SalesForce
+
+avec la carte sim existante.
+
+Si ce n'est pas encodé de cette maniére dans SalesForce (nouvelle carte sim au lieu de la carte sim existante), la
+demande sera en erreur technique dans OMGT/NOM => important, on doit éviter cela.
+
+Un client Orange Prepaid qui devient hey!, se verra renboursé son crédit restant de sa carte prepaid sur sa
+
+premiére facture hey!
+
+MINP Details
+
+Proximus
+
+Ba:
+
+Lyca
+
+Mobile Vikings /Jim Mobile
+
+Others
+MVNO Orange
+
+New activation / WM: OMGT 2.1 Tariff Change / WM: OMGT 2.4.5
+
+SIM Renewal / WM: OMGT 2.4.2
+
+Prepaid DIRNUM change / WM: OMGT 2.4.3
+
+Lost/ Stolen / susp / deact
+
+
+Page 3 Text:
+Take Over / WM: OMGT 2.4.6 MNP / OMGT tab MNP Admin Modifications / WM: OMGT 2.4.1
+
+Service Management / WM: OMGT 2.4.4
+
+Début de la page
+
+2.3. BILLING / COLLECTION / PAYMENT
+
+Actions dans Salesforce pour les équipes Collection / Billing : voir WM iMX Homepage + WM Credit Control Homepage .
+
+ATTENTION EXCEPTIONS !!
+
+- Pas de P2P (Promise to Pay) pour les clients hey! !
+
+- Les clients seront bloqués a 50€ en national et 60€ en Roaming.
+
+- Les VAS et certains SMS Premium seront bloqués. Si le client le demande, nous pouvons le débloquer aprés l'avoir
+informé des cotits & risques, seulement 1mois aprés I'activation et Sl sa derniére facture est payée ( pas de
+contestation possible )
+
+Un client Orange Prepaid qui devient hey!, se verra renboursé son crédit restant de sa carte prepaid sur sa premiere facture
+hey!
+
+Previous credits:
+
+There are no iterns to show in this view,
+
+Open Amount :
+0
+
+Customer segment:
+
+[Resdentsl SCS A You should select at least 1 customer notification type, SMS or mail !
+
+Type of Credit:
+[Credit Note
+
+Line Of Business
+
+[Mobie Voice
+
+Clarcifieatinn
+
+= Un client en réglement collectif de dettes ne peut pas prendre un abonnement hey!. Il sera refusé par le scoring
+et aucune solution n'est possibe, car il s'agit d'une marque purement numérique.
+
+Collective Debt Settlement ECA Bankruptcy p2p Overview Invoices &
+Treatment => WM Treatment Payments => WM
+
+Deceased procedure for Credit IMX
+Payplan Refund
+Control => WM process
+
+Le compte bancaire est le méme que pour les clients Orange
+
+= I n'est pas possible d'ajouter/supprimer des services
+
+
+Page 4 Text:
+UPDATE 24/06/2024: A partir de maintenant, le Payment Responsible Flag pour les clients hey! peut étre ajouté au
+panier dans Salesforce !
+
+POUR FIRSTLINE:
+
+Il n'est plus nécessaire d-assigner un case vers TechM !
+
+Ce produit peut étre ajouté au panier lors de chaque nouvelle commande, Manage Options ou TP Change.
+Sous " INVOICE OPTIONS", cliquez sur “ Add to Cart "a cété de " Payment Responsible “
+
+v
+
+° .00€ 1.00 € xisting x
+
+E-Invoice
+
+Notify Me
+Rearnect ES
+Responsible
+
+Ici vous trouverez un apercu de la facture. Veuillez noter qu'il n'existe pas de facture xls disponible pour hey!
+
+Début de la page
+
+2.4. RETENTION
+
+1) Pour une compensation en cas de probleme technique / d'activation : Voir Compensation grid for Technical /
+Activation issues
+
+= 25% de frais mensuels si moins de 7 days
+= 50% de frais mensuels si moins de 14 jours
+= 100% de frais mensuels si plus de 14 jours
+
+2) Billshock:
+
+= Si le client a des problémes avec l'application et est hors forfait : 50% de réduction (facture fermée + facture en
+cours)
+
+Page 5 Text:
+= Si c'est la premiére fois, quelle que soit la raison : 50% billshock
+
+3)_Les WM's pour Tequipe Retention eee eee eee ee eeee
+
+Les WMs pour l'approche Retention et non pour l'application de la promo toolkit qui n'est pas d'application pour hey!):
+
+= Retention Homepage
+= Retention Financial Offers grid
+= Financial Offers@Partners
+
+= Webcare@Partners
+
+Pour l'équipe MEDIATION => Cliquez ici pour voir les conditions générales.
+
+4) Churn- Que faire lorsque le client veut quitter hey! ?
+
+Il est trés important d'appliquer une approche de rétention pour les clients qui souhaite nous quitter et de leur faire sentir qu’ils
+sont importants pour nous.
+
+Nous ne disposons pas d'un Churn Promo Toolkit, mais nous pouvons offrir de nombreuses solutions au cas ou le client
+voudrait nous quitter.
+
+N'hésitez pas a faire la comparaison avec l'autre opérateur.
+
+Demandez-leur pourquoi ils veulent annuler leur abonnement :
+Par exemple:
+
+- "Désolé de lire que tu as l'intention de nous quitter :-( Pourrais-tu nous faire part de ton expérience ou de ton probleme."
+
+- "Dommage que tu souhaites nous quitter :-( Tu pourrais me donner plus d'infos ?"
+
+On peut toujours intervenir avec des solutions telles que Billshock ou une correction de factures (si nécessaire)....
+Si vous ne parvenez pas a retenir le client => Envoyez le lien au client pour résilier son abonnement.
+
+Lien : https://www.heytelecom.be/fr/aide-et-support/mon-service-internet/demenagement/comment-resilier-ton-abonnement
+
+IMPORTANT :
+-Informez le client également que hey! n'a pas d'offre prépayée!
+-Informez le client qu'il va perdre son numéro si nous résilions le numéro
+
+-Si le client est intéressé par un autre opérateur, demandez-lui de contacter l'opérateur concerné.
+
+Page 6 Text:
+Si le client fait la demande la résiliation via le Chatbot, il enverra immédiatement le client vers le formulaire de résiliation sur le
+web.
+
+Exceptionnellement : Si le client nous contacte car il nous informe qu'il a recu un message d'erreur sur le site hey ! pour la
+demande de resiliation, veuillez procéder comme suit
+
+- Demander de partager le message d'erreur via le chat ou SoMed
+
+- Demander la raison de sa demande de résiliation ( si feedback interessant a partager avec votre TL)
+
+- Faites un full ID check avec le client avant de traiter sa demande
+
+- Créer un case Churn avec le Produit adéquat + traiter la demande de churn dans SF + cloturer le case
+- Rajouter le numéro de case dans la conversation dans ‘internal note’
+
+Début de la page
+
