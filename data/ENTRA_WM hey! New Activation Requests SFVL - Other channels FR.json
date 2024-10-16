@@ -1,0 +1,360 @@
+Page 1 Text:
+HEY! NOUVELLE DEMANDE D'ACTIVATION VIA D'AUTRES CANAUX
+(VENTES)
+
+Cette méthode de travail est applicable pour I'équipe ENTRA a partir du 01/04/2024.
+ENTRA recevra de nouvelles demandes d'autres canaux (Sales) pour encoder les demandes
+hey! mobile/internet dans Salesforce.
+
+TABLE DE MATIERES
+
+DANS PEOPLESOFT
+COMMENT ENCODER LES
+DEMANDES DANS SALESFORCE?
+DEMANDES EN ATTENTE OU
+REJETEES
+
+DANS PEOPLESOFT
+
+Vous pouvez retrouver les cases dans Peoplesoft sous:
+
+LEVEL 1: Internal Use
+LEVEL 2: Provisioning
+LEVEL 3: Hey Sales
+
+Case Information
+
+Case Type: Internal Use Vv
+Quick Code: Provisioning v
+Level 1: Internal Use
+Level 2: Provisioning
+
+“Level 3: Hey Sales v
+
+Top
+COMMENT ENCODER LES DEMANDES DANS SALESFORCE ?
+
+Tous las détails de l'ordre seront envoyés par e-mail. Sur la base de cet e-mail, vous pouvez saisir la nouvelle demande
+d'activation dans Salesforce.
+
+Exemple d'e-mail contenant tous les détails de I'ordre :
+
+Page 2 Text:
+Dear
+
+Please encode this new order in Salesforce
+
+Orderld : 26432061
+
+Order Created : 17/03/2024 14:30
+
+Order placed on navigation language : Francais (Belgique)
+
+Order placed on store : Reseller Alternative Channel
+
+Client Type : CASE_1 - mobile only
+
+Internet migration from Orange to hey! : No
+
+Product Details
+
+Subscription product
+
+Name :2GB
+Tariff id : CO003046
+Monthly price : 7€/mois
+Promotions
+
+Promotions 2
+
+Number configuration : New number
+Type of card : POST
+ATTENTION:
+
+Ces demandes sont encodées en magasin. Une carte SIM est donc donnée aux clients.
+
+Il ne faut donc nas la commander pour envoi comme une demande hey! par le WEB mais |’encoder directement dans la
+demande: Voyez la section "Seller Details"
+
+Seller Details
+
+‘SIM number : 7150001166954
+seller ID : Singh TAJINDER
+seller Aramis Code : PICKNO01
+
+En plus des données du vendeur, vous avez la SIM qui a été donnée au client.
+
+Page 3 Text:
+1) Créez le nouveau Ordre hey!
+
+Ventes Actuel Comptercients ~ fecherche compte cient Cemandes ~ froduitretiervcer w Supports ~ = Projects ~ «= OBE Emaitfions
+
+mote chant
+
+78814 78814 - HEY Account 4)
+
+banger Sector Atteten
+Hey Residental
+
+PRODUITS ET SERVICES ACTIFS
+
+Nom @e compte chert Sane
+
+76314 76814 - HEY Account
+
+Prospect
+
+Secteur
+Hey Residential
+
+Compte principe!
+
+Miva a your Se tet rercons @ Pas de prodults ou services
+
+Acwation chent mporte
+
+PRODUITS ET SERVICES SUSPENDUS
+
+~ Account Details
+
+Precm
+
+7es14
+
+Pas de produits ou services
+
+inconew
+
+fiom de taméie Date de naisrance @
+
+Meta
+
+PRODUITS ET SERVICES INACTIFS
+
+Pas de produits ou services
+
+v Contact Details
+
+Type de document Pdennse Type de cane et?
+
+Carte el fournie parties autorités 4 Carte didentité électronique
+belges
+Numtra de cote cosentse Numero ce regute anon @
+
+M6677 7472 RzIPNCoOwSyy06Z
+
+Date Sesion Dane expernon
+
+Coevh quiet ie dermarabe Ute he pre
+exc Prcett ov
+
+BANTER DACMAT
+
+Unte se pre ite nase -
+MINP Details
++ MeyPontpula = Oe 4 ae ex Ancien epesatens
+° roe 4 . 7 Onnge
+* 208 Pron tattare scien epecate
+Carte Sim - ‘ e Suese
+umero &
+conn par
+fopteateur
+
+> t ‘
+
+Page 4 Text:
+Nando a
+aan par
+
+lopératnut Nouvetie @SIM ou renowenilement carte eSEM
+mache
+
+Portage tun ‘ 5
+ume
+
+Renauvellemnert de carte SIM plyysiquae
+
+2) Lorsque l'ordre est en ‘Configuration en cours' => Modifiez le champ Canal par hey! Shops et ajoutez le Channel Order ID
+
+Miguestion en court SF
+
+3) Passez l’ordre en configuation terminée.
+Il nous faut maintenant changer le propriétaire de la commande et le code dealer.
+
+Cliquez sur le petit bonhomme a droite dans Propriétaire de la commande :
+
+Page 5 Text:
+Canali
+hey! Shops
+
+Proprietaire de la commande
+(3 Test01_neyaitchan_fn TESTO1_HEYALTCHAN LN Vi
+
+Ce champ est caituit on Ge Lenregatremert
+
+Vous obtenez l’écran suivant.
+
+Sélectionnez Utilisateurs partenaires aprés avoir cliqué sur la fleche vers le bas pour obtenir le menu déroulant:
+
+Changer le propriétaire de la demande
+
+Aa. Recherchez dans fes Utilisateurs.
+
+© Activités ouvertes
+
+Annuler | oprictaire
+
+Collez le code dealer (Aramis) dans la fenétre de recherche et sélectionnez le bon vendeur :
+
+Résultats pour Utilisateur partenaire
+
+IT obestann » Al par Fertinerwn w
+
+NOM COMPLET
+
+3 meteee nineteen
+C3 wre
+
+Top
+
+Une fois sélectionné, cliquez sur Modifier le propriétaire pour confirmer le changement de vendeur.
+
+Le vendeur est bien mis a jour :
+
+Page 6 Text:
+Assoct Détails
+
+fears
+Contiguration lemmirée ¢
+
+‘ype te tenance
+
+Suspension “hee
+
+ts adsinoreste inet
+
+atte Se pre
+
+SC Pesce Lat
+
+(RP Orga moe
+
+GC1688 /
+Carma seri
+
+2es2aT 1S
+
+recive Trot nw Te Cope
+00
+
+Toe aa marae
+
+Gm
+
+‘Total Ore Time Charge eachating VAT
+nnn
+
+ATTENTION: Veillez a mettre les bonnes informations! Aucun changement n'est possible par la suite.
+
+4) Soumettez l'ordre vers NOM, créez le contrat.
+
+Creer le contrat
+
+\vower rus Cver le teotet pour cote Seranse?
+
+Le statut a été modifié.
+
+Page 7 Text:
+Nom du compte client Date de début de la demande Statut User Channel Code dealer AY
+78814 78814 - HEY Account 26/02/2024 Soumis avec succés ANTA-MOBILE ANTAMO002
+
+Statut Nom du compte client
+Soumis avec succés ¢ 78814 78814 - HEY Account
+pe de demande Compte client
+Commercial OO1MTOO000SuLin
+Suspension Type Données de facturation et de paiement
+78814 78814 - HEY Account - Billing - 16642978
+
+Uste de prix Compte client du donneur
+B2C Price List
+ERP Order Number
+
+7
+Channel Order ID
+CH4S7896
+into additionnelie statut
+
+4
+Effective Tota: One Time Charges Nom du shop
+€0.00 ANTA-MOBILE SPRL (AGENT) (DISTRIBUTOR)
+Total colts mensuels
+€7,00
+Total One Time Charge exctuding VAT
+
+€0,00
+
+Page 8 Text:
+tance we Predumatvervion Vv Rappeth yw Projecth we OME tetadfiow: v
+
+PRODUITS ET SERVICES ACTIFE
+
+$314 - HEY Account 4 Ghent
+
+Recommandations et derniéres interactions
+
+Ce compre cheer West pas Hagible aux erocmmandane
+
+7 ep Resdertist
+© ney Poatpaia
+“ 260 ae hethe .
+¥ Account Detais :
+rae. a ,
+New setome ) jeaine
+res 4 *
+Wo Athos °
+‘ Sistas
+ Comnact Details Nuttimedta °
+Pachaney " . ahead
+Type oe doce corte Tyee de cote 2 one
+Carte e'D tourne por tes autores , Carte dideente dectromque
+
+beiges
+
+Top
+
+DEMANDES EN ATTENTE OU REJETEES
+
+Notre management désire avoir la meilleure vue possible sur les demandes en attente ou rejetées. Vous pouvez
+en effet dans certains cas devoir envoyer un email au client pour lui demander une copie du document
+d'identité, des précisions sur la carte SIM ou lui signifier le rejet.
+
+Lors de l'envoi de cet email, veuillez ajouter en CC:
+
+C'est l'adresse email globale pour le suivi des demandes hey alternative shop
+
+¢ Email du vendeur
+
+Pour obtenir cet email, cliquez sur le Order Owner / Propriétaire de la commande :
+
+Propriétaire de la commande
+
+€} Wang GUOQING
+
+Vous obtiendrez les détails dont |’email.
+
+Page 9 Text:
+v About
+
+Nom complet
+
+Wang GUOQING
+
+Responsable
+
+v Contact
+
+E-mail
+servcom01@gmail.com
+
+Top
+

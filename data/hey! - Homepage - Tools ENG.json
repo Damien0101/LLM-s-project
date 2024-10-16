@@ -1,0 +1,362 @@
+Page 1 Text:
+hey! Homepage - Tools
+
+6. TOOLS
+
+6.1. VISIBILITY IN TOOLS | 6.2. SALESFORCE
+
+6.3. ADMIN PORTAL TOOL | 6.4. OUT OF BUNDLE SMS NOTIFICATIONS
+
+GO BACK TO MAIN PAGE
+
+6. TOOLS
+
+6.1. VISIBILITY IN TOOLS
+
+In the first months, we'll ask you not to use the Orange Love Tool for hey! customers.
+
+We'll probably develop other templates and way to communicate with them later.
+
+How to recognize them?
+
+Salesforce
+
+The Account Name has always the mention HEY Account :
+
+Account Name Status
+
+Matthieu Fores - HEY Account Customer
+
+arent Account Segment
+
+HEY Residential
+
+Latest Refresh Date @
+
+Activation imported account
+
+OMGT
+
+On order level and Global Information - Customer, you'll see in Segment HEY RESIDENTIAL:
+
+Page 2 Text:
+VY Onder 106313952
+
+Order Type:Commercial Status Last Update-20/08/2021 10:57:38
+Order Status:COMPLETE Order Stage-ORDER CLOSED
+Creation Date:20/08/2021 10:47:09 egment:H!
+
+[ | | i
+
+‘VY Giobal information
+
+Customer | Billing Address | Billing Account I CLS Details f
+
+Title:Mr. First Name:Geert
+Last Name-Willems Company Name:
+Language-NL VAT Number
+BSCS Customer 1D-1.769314 IS NewCust-true
+E-Mail Address:
+
+FM First Name: FM Last Name:
+Project Leader- SMS Communication-false
+BSCS
+
+Go to Billing tab and you'll get the dedicated Customergroupe HEY_Res (of HEY_Soho) :
+
+| 1.8249452 MATTHIEU FORES © Consumer © Business
+
+[pcos (25)
+| 251087202
+:
+
+
+Page 3 Text:
+(f&\ Frame Relay
+Les Mobistar FR
+
+Fictive CLI (03909085 )
+Volume A
+
+Cable activation
+
+Cable installation
+Cable Internet South
+Volume B
+
+¢ Content Billing Internet
+¢ Easy Switch ID
+
+a4
+a4
+°
+aa
+5
+a4
+
+@ Hey Internet
+
+Conclusion
+
+Whenever you see the mention hey!, don’t send OLT messages to customer.
+
+iMX
+
+| case mrormarion a
+Case category COLLECTION Type Initial doc KCCOUNT
+Case reference 1.725252 Lang DUTCH Created by TCM_CRM2IMK2
+Cust. group “HEYRES, Case manager CEULEMANS CURT ECA
+Structure ret.
+Cust. id 2943630
+
+[Liwowveo parry A | KEY FINANCIAL INDICATORS “
+Name BELHADJ A obeniton 0.00
+First name SAMI Balance Que 0.00
+Address tine 1 BERKENHOFSTRAAT 13//
+
+Address line 2 BEL 2800 MECHELEN
+
+Phones 473581045
+
+Lang DUTCH
+
+Situation
+
+| workeLow sraruses a
+
+WECARE
+
+Page 4 Text:
+Administrative Status Technical Documents History
+@] Log
+
+Customer Number 230621000424
+
+Customer Code 18249452 —
+
+Customer Info VIP NO x
+
+Customer Type EY Residential by
+Title Mr. =
+
+First name Matthieu
+
+Name Fores
+
+Back to the top of the page
+
+6.2. SALESFORCE
+
+= MOBILE - WM: B2C Salesforce - MOBILE // Tab hey!
+™ CABLE - WM: B2C Salesforce - CABLE // Tab hey!
+
+Hey! customers are identied as "HEY ACCOUNT “ on the parent account..
+
+Fp Account —
+4) Matthieu Fores - HEY Account [|
+
+tatus Language Segment Warning
+Customer FR HEY Residential
+
+Account Name Status
+
+Matthieu Fores - HEY Account Customer
+
+Parent Account Segment
+
+HEY Residential
+
+Latest Refresh Date @
+
+Activation imported account
+
+
+Page 5 Text:
+ACTIVE ASSETS
+
+Number Activation Date Status End of Last Modified Date
+Loyalty
+0032477 32-08-2022, tive 22-12-2022 14:22 @
+
+095942
+
+0032477 Inactive °
+095942 31-08-2022 30-07-2023 10:32
+
+0032477 Acti e
+995942 13-10-2022 30-07-2023 10:34
+
+ACTIVE ASSETS
+
+Number Activation Date Status End of Last Modified Date
+Loyalty
+0390908 07-07-2023 ‘Active 07-07-2023 14:02 @
+
+5
+°
+
+Active
+07-07-2023 07-07-2023 14:02
+
+0390908 Active e
+5 07-07-2023 07-07-2023 14:02
+
+Active °
+07-07-2023 07-07-2023 14:02
+
+
+Page 6 Text:
+Please note: For all modifications via Salesforce, we get an error message (a screenshot below) while the client gets
+confirmation by changing the status of the contract to signed: ON-5839624/ON-5833415.
+
+> ‘ re + 299308
+
+\e
+'
+2
+
+ATTENTION: Please note that it is impossible to provide a duplicate contract to the customer.
+The confirmation email that the customer receives after applying on the website is the contract.
+
+If the customer has lost this email, tell him that you cannot provide him a copy. The contract is not subject to any particular
+conditions, so he can modify or churn it whenever he wants.
+
+Back to the top of the page
+
+6.4. OUT OF BUNDLE SMS NOTIFICATIONS
+
+These messages are sent from the MBC tool.
+
+DESCRIPTION SMS FR SMS NL
+
+hey!: tu as consommé 80 % de ton volume de
+80% usage of | surf. Nous t'avertirons quand ton volume sera
+embedded ___| presque épuisé. Tu pourras alors continuer a
+data allowance | surfer au prix de 0,01 €/MB ou 10,24 €/GB
+jusqu'a 50 € en plus de ton abonnement
+
+hey!: je hebt 80 % van je surfvolume opgebruikt. Je
+wordt opnieuw verwittigd als je data bijna op is.
+Daarna kan je verder surfen aan 0,01 €/MB of
+10,24 €/GB tot 50 € bovenop je abonnement
+
+hey!: tu as presque consommeé I'intégralité de | hey!: je hebt je surfvolume bijna opgebruikt. Zodra
+
+95% usage of | ton volume de surf. Quand il sera épuisé, tu | dit helemaal op is, kan je verder blijven surfen aan
+embedded | pourras continuer a surfer au prix de 0,01 0,01 €/MB of 10,24 €/GB tot 50 € bovenop je
+
+data allowance | €/MB ou 10,24 €/GB jusqu'a 50 € en plus de | abonnement
+
+ton abonnement
+
+
+Page 7 Text:
+PPU_ 1st usage
+
+hey!: tu as consommé I'intégralité de ton
+volume de surf. A partir de maintenant, tu
+peux continuer a surfer au prix de 0,01 €/MB
+ou 10,24 €/GB jusqu'a 50 € en plus de ton
+abonnement
+
+hey!: je hebt je surfvolume volledig opgebruikt.
+Vanaf nu surf je verder aan 0,01 €/MB of 10,24
+€/GB tot 50 € bovenop je abonnement
+
+PPU _ 15€
+threshold
+
+PPU _ 30€
+threshold
+
+hey!: tu as déja surfé pour un montant de 15
+€ de surf hors abonnement. Nous t'avertirons
+a nouveau lorsque tu auras atteint 30 €. Suis
+ta consommation sur My hey!
+
+hey!: tu as déja surfé pour un montant de 30
+
+€ de surf hors abonnement. Nous t'avertirons
+a nouveau lorsque tu auras atteint 50 €. Suis
+
+ta consommation sur My hey!
+
+hey!: je hebt 15 € aan surfvolume buiten
+abonnement verbruikt. Bij 30 € sturen we je een
+volgende verwittiging. Volg je verbruik op My hey!
+
+hey!: je hebt 30 € aan surfvolume buiten
+abonnement verbruikt. Bij 50 € sturen we je een
+volgende verwittiging. Volg je verbruik op My hey!
+
+PPU _ 50€
+capping limit
+
+hey! tu as surfé pour un montant de 50 € hors
+abonnement. Tu n’as plus accés a internet sur
+ton smartphone jusqu’a ton prochain cycle de
+facturation. Tu veux encore surfer? Va dans
+My hey! et choisis une formule avec plus de
+surf, ou connecte-toi via WIFI
+
+hey! je hebt voor 50 € gesurft bovenop je
+abonnement. Je hebt geen toegang meer tot het
+mobiele internet tot je volgende factuurperiode.
+Verder surfen? Ga naar My hey! en kies voor een
+tarief met meer surfvolume. Of surf via wifi-
+connecties
+
+TDC_ 1st usage
+
+hey!: tu surfes actuellement a l’étranger. Tu
+peux continuer jusqu'a un montant de max
+60 €. Tu recevras un SMS quand tu auras
+presque atteint cette limite. Infos et tarifs
+
+sur https://www.heytelecom.be/fr/roaming ou
+dans tes SMS recus
+
+hey!: je surft nu in het buitenland. Je kan maximaal
+60 € uitgeven. We sturen je een sms wanneer je
+bijna aan je limiet zit. Info en
+
+tarieven: https://www.heytelecom.be/nl/roaming of
+hou je sms‘en in de gaten
+
+TDC_ 80%
+usage
+
+hey!: tu as atteint 80 % de ta limite de surf a
+l'étranger. Ta connexion internet se bloquera
+quand tu auras atteint 60 €
+
+hey!: je hebt nu 80 % van je surflimiet in het
+buitenland verbruikt. Denk eraan dat je
+internetverbinding wordt geblokkeerd zodra je 60
+€ hebt opgebruikt
+
+TDC_ 95%
+usage
+
+hey!: tu as presque atteint ta limite de surf a
+I'étranger. Ta connexion internet se bloquera
+quand tu auras atteint 60 €
+
+hey!: je hebt bijna je surflimiet in het buitenland
+bereikt. Denk eraan dat je internetverbinding
+wordt geblokkeerd zodra je 60 € hebt opgebruikt
+
+TDC_ 100%
+usage
+
+hey!: tu as atteint la limite de surf de 60 € a
+I'étranger pour le mois de facturation en
+cours. Ta connexion internet est donc
+bloquée
+
+hey!: je hebt je surflimiet van 60 € in het
+buitenland voor deze factuurperiode bereikt. Je
+internetverbinding in roaming is nu geblokkeerd
+
+Back to the top of the page
+

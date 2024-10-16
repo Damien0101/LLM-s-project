@@ -1,0 +1,671 @@
+Page 1 Text:
+hey! - ENTRA
+
+1.1. A QUOI SERT CETTE METHODE DE TRAVAIL ?
+2. COMMENT
+
+2.1. LES TYPES DE CASES QUE VOUS RECEVREZ ?
+
+2.2. A QUOI RESSEMBLE LE FORMULAIRE WEB
+DANS LE CASE ?
+
+2.3. COMMENT ENCODER LE FORMULAIRE WEB COMME
+UNE COMMANDE ?
+
+2.4. COMMENT TRAITER LE CASE APRES
+L'ENCODAGE ?
+
+3. DES QUESTIONS
+
+3.1. QUE FAIRE SI VOUS AVEZ DES QUESTIONS ?
+
+1. QUOI
+
+1.1. A QUOI SERT CETTE METHODE DE TRAVAIL
+
+MVNO signifie que les cartes hey! utiliseront le réseau Orange et verront donc Orange sur leur écran de téléphone ou
+
+Smartphone.
+C'est un produit basique sans option ni smartphone.
+
+il y a 4 tarifs MOBILE (A partir du 01/06/2024):
+
+¢ hey! mobile S (5GB) - 7 EURO
+
+e hey! mobile M (10GB) - 9 EURO
+
+e hey! mobile L (50GB) - 14 EURO
+
+e hey! mobile XL (160GB) - 25 EURO
+
+INFO: Les anciens clients 20GB sont maintenant "hey! 20GB boostés" (40GB)
+
+Page 2 Text:
+150 min d’appels
+500 SMS
+Réseau 4G/5G Orange
+
+7 €/mois
+
+Sans engagement
+
+lly a1 tarif CABLE:
+¢ 39 EURO
+
+300 min d'appels
+1000 SMS
+Réseau 4G/5G Orange
+
+9 €/mois
+
+Sans engagement
+
+Appels illimités
+SMS illimités
+Réseau 4G/5G Orange
+
+1 4 €/mois
+
+Sans engagement
+
+internet ~\
+
+Inclus
+
+150 Mbps downioad
+
+10 Mbps upload
+Internet stlimite
+
+Frals d'Instaiiation offerts
+
+29) cjmois
+
+ae Gime apres 3k mes
+
+Tout se passe par internet: l’activation se fera donc par le e-shop.
+
+2. COMMENT
+
+2.1. LES TYPES DE CASES QUE VOUS RECEVREZ ?
+
+Un level 3 spécifique a été créé : hey! Encode Postpaid
+
+Case Information
+
+Case Type: [ Internal Use
+
+v| “Case Status:
+
+Quick Code: |
+
+v “Service Plan:
+
+Level 1:
+Level 2:
+
+Intemal Use
+Entra Web
+
+Customer Impact:
+Assigned Team:
+
+“Level 3:
+
+hey! Encode Postpaid
+
+Assigned To:
+
+Appels illimités
+SMS illimités
+Réseau 4G/5G Orange
+
+25 €/mois
+
+Sans engagement
+
+Retour au début de la page
+
+Open - New
+
+Standard
+Medium
+
+
+Page 3 Text:
+Retour au début de la page
+
+2.2. A QUOI RESSEMBLE LE FORMULAIRE WEB DANS LE CASE
+
+Les web form sont différents par leur expéditeur (From) et destinataire (To) ou vous trouverez les mentions Iris .
+Le numéro de commande (Orderld) figure dans le corps de I’émail mais devrait prochainement apparaitre dans le
+titre (Subject) du webform
+
+From: lighteshopiris@orange.be
+
+Sent: Thursday 7 September 2023 11:05:48
+To: eshopiris@orange.be
+
+Ce:
+
+Subject: Entra email
+
+Dear
+
+Please encode this new order in Salesforce
+
+OrderId : ORDO01049073529
+
+Order Created : 07/09/2023 09:04
+
+Order placed on navigation language : Francais (Belgique)
+
+Order placed on store : Website Main Website Store
+
+Client Type : CASE_3 - mobile + internet
+
+Retour au début de la page
+
+2.3. COMMENT ENCODER LE FORMULAIRE WEB COMME UNE COMMANDE ?
+
+GENERALE
+
+A. QU'EN EST-IL DES COMMANDES SUR DES COMPTES
+
+CLIENTS HEY | EXISTANTS ? B. CREER UN NOUVEAU COMPTE CLIENT ?
+
+
+Page 4 Text:
+D. QUE FAIRE D'UNE COMMANDE QUI A ETE
+; - > :
+C. QU'EN EST-IL DES DEMANDES SOHO ? DEMANDEE PLUSIEURS FOIS ?
+
+MOBILE
+
+E. MNP D'UNE NUMERO ORANGE? F. QU'EN EST-IL DES DEMANDES D'E-SIM ?
+CABLE
+
+G. COMMENT ACTIVER UNE DEMANDE DE CABLE ? H. COMMENT CREER UN DELIVERY ACCOUNT?
+
+|. COMMENT ENCODER LA COMMANDE DANS LE PANIER_ | J. COMMENT ENCODER LA DATE D'INSTALLATION
+? DANS LA COMMANDE ?
+
+K. QUE FAIRE POUR UNE MIGRATION ORANGE TO HEY !
+(CROSS-BRAND MIGRATION)
+
+GENERALE
+
+A. CREER UN NOUVEAU COMPTE CLIENT ?
+
+Cliquez sur Account et Sélectionnez + New Account (Compte client en francais)
+
+eee
+ose Ventes Accueil Recherche compte client
+
+-++ Nouveau compte client
+
+Sélectionnez le profil HEY residential (1) ou HEY SOHO residential (2) selon que le client soit purement résidentiel
+ou ait un numéro de TVA:
+
+Page 5 Text:
+New Account
+
+Select a record type
+HEY Residentia
+HEY residential client
+
+HEY SOHO Residential
+HEY SOHO residential client
+
+Residential Creation
+
+Record type for residential account creation
+
+ral
+
+OHO Residential Creation
+
+Record type for soho residential account creation
+
+L'offre hey! est composée de 4 abonnements :
+
+hey! mobile S (5 GB)
+
+hey! mobile M (10GB)
+
+hey! mobile L (50GB)
+
+hey! mobile XL (160GB)
+
+INFO: Le nouveau nom de l'abonnement 20GB est maintenant : hey! 20GB boostés
+
+Selon ce que le client demande dans le webform, sélectionnez le tarif correspondant dans SalesForce.
+
+v hey Postpaid & 0.00€ 0.00€ Ada
+
+°
+hey! mobile S
+°
+hey! mobile M
+°
+hey! mobile L
+°
+
+hey! mobile XL
+
+hey! 20 GB boost
+
+Encodez la demande en suivant les intstructions du web form comme vous en avez I’habitude dans le e-shop.
+Consultez la WM Entra: encodage des demandes www.orange.be pour plus de détails.
+
+Sélectionnez le Blocage achats multimédia et le Premium Calls Blocking .
+
+Assurez-vous que les notifications SMS sont bien activées par défaut aux valeurs suivantes:
+
+Page 6 Text:
+Vv Services de facturation
+
+Réception de facture E-mail de facturation
+Facture électronique geert.willems@orange.com
+NotificationSMS quand forfait epuisé NotificationSMS facturation hors forfait
+
+© ©
+
+SMS facture = montant hors forfait de:
+
+Activer le blockage achats multimedia et Premium Calls Blocking
+
+VY OPTIONS DE BLOCAGE & DE COUVERTURE
+
+° 0.00 € 0.00 € Add
+Blocage achats
+
+muttimédia
+
+tt) 0.00 € 0.00 € Add
+
+Premium Calls Blocking
+
+Il se peut que le client ne soit pas un nouveau client mais un client existant : vous recevrez alors le message d’erreur
+
+habituel des doublons :
+
+Cet enregistrement ressemble a un
+enregistrement existant. Vérifiez si les
+enregistrements sont dupliqués avant de
+sauvegarder,
+
+Afficher les doublons
+
+Dans ce cas sélectionnez le client existant correspondant a la demande et poursuivez I'encodage.
+Retour au début de la page
+
+B. QU'EN EST-IL DES COMMANDES SUR DES COMPTES CLIENTS HEY ! EXISTANTS
+?
+
+Si le client choisit le flux client existant, vous aurez alors son code client et il n'y aura pas d’adresse dans le webform :
+
+Page 7 Text:
+Your personal data :
+FurstName
+
+LastName
+
+Email
+
+Date of bath
+
+ID card number
+
+Natonal regrstry sumber
+Sobovatrumber
+PostCode
+
+Street
+
+Number
+
+Box
+
+Country
+
+: Anne
+2 Goats
+
+: ampe.godts@orange.com
+2 06/10/1976
+
+2 SO2132163288
+
++ 76100626260
+
+Suivez ici aussi les regles d'encodage classiques de |’e-shop ( Entra: encodage des demandes www.orange.be )
+Dans certaines situations, a la validation de le commande, il vous sera demandé d’associer a un compte de
+
+facturation alors qu'il existe déja :
+
+Modifier Demande
+
+Cliquez sur adresse e-billing et vous recevez l’écran suivant:
+
+[BS omrign starch «Hg acoiat
+
+Sélectionnez un compte facturation pour cette demande
+
+Cliquez sur Créer une nouvelle adresse de facturation and confirm the existing address.
+
+C. QU'EN EST-IL DES DEMANDES SOHO ?
+
+Retour au début de la page
+
+Page 8 Text:
+Si le nom de client SoHo est composé d’un prénom et d'un nom, veuillez l'encoder comme un client RES c'est a dire
+le prénom dans le champs prénom et le nom dans le champs nom.
+C'est important pour les différents feedback que le systeéme envoie au client.
+
+Retour au début de la page
+
+D. QUE FAIRE D'UNE COMMANDE QUI A ETE DEMANDEE PLUSIEURS FOIS ?
+
+Les clients peuvent parfois encoder la méme demande plusieurs fois pour de multiples raisons.
+Afin d’éviter ce genre de situation, vous pouvez consulter le rapport SF dédié dans la section Reports :
+
+Home Accounts ~ AccountSearch «Contacts ~ Orders Contracts Assets Reports Projects v
+—_—>~m»>~>>D>»y>y>A*A*e~=~»wPPaPaS>pPE>»>~m»P»aaaEEeEeEeEeEeeEEeE>~L_E>=>=>=>=>=__—_—_LEES
+Report Name ~ | Description ~ Folder Y Created By
+
+Si il n'y figure pas, cherchez-le dans le moteur de recherche :
+
+| Q all ord |
+
+v | Created On
+
+/2020, 10:09 PM
+
+Sf
+8/
+
+Cliquez sur le filtre
+
+@ Add Chart lv) e fit ov
+
+Et introduisez le numéro de téléphone demandé en cliquant dans le champ MSISDN :
+
+Filters md
+
+Order Sta
+
+All Time
+
+@ Status
+
+equals Configuration In Progress,
+Configuration Completed, Submitted,
+Submission Successful, Submission
+Failed
+
+Remplissez et cliquez sur Apply :
+
+Page 9 Text:
+Filter by MSISDN x
+
+Pas de réponse signifie qu’il n'y a pas de demande en cours.
+Si par contre il y a des ON- en cours, évitez les encodages multiples et vérifiez ce qu'il en est ON- par ON-
+Retour au début de la page
+
+MOBILE
+
+E. MNP D'UNE NUMERO ORANGE
+
+Allez dans SalesForce.
+
+hey! est un MVNO d’Orange. Si un numéro Orange demande une activation, il sera encodé comme un MNP mais il
+faudra utiliser la carte SIM existante et non envoyer une nouvelle carte SIM.
+
+Il sera donc important de vérifier l’origine du numéro en cas de demande de portage.
+
+Page 10 Text:
+Number configuration : Transfer
+Type of card : POST
+
+Current Operator ORANGE
+
+Normalement c'est mentionné dans le web form mais on peut toujours croiser les données sur www1399.be
+Vous pouvez aussi verifier l’origine du numéro dans OMGT - xNP Admin — Number Location
+
+Prene furow Operator Sewt Cate End Date Roving Coxse
+| aaarazerece Orange Meese 20-03-2000 C4909
+| BUTERA Pe Prommus mote 26-03-2000
+
+Vous retrouverez la carte SIM et/ou le numéro de client en recherchant le numéro dans BSCS.
+Retour au début de la page
+
+Page 11 Text:
+F. QU'EN EST-IL DES DEMANDES D'E-SIM ?
+
+Les clients Iris pourront aussi demander d’activer une e-SIM. A cété du CHAMP SIM CARD TYPE, vous verrez e-SIM
+au lieu de la STANDARD SIM CARD habituelle.
+
+SIM card type : standard SIM card
+
+Si tel est le cas, selectionnez e-SIM en lieu et place de la SIM A expedier
+x
+
+Une fois la e-SIM enregistrée, cliquez ensuite sur le bouton Générer un code eSIM
+
+(5) esimis) disponibte(s) pour cette demande
+
+De cette manieére le client obtiendra par email son code QR comme suit :
+
+Le QR code pour activer ton eSiM
+
+Plan tanfaire 1 GB.
+
+Retour au début de la page
+
+CABLE
+
+G. COMMENT ACTIVER UNE DEMANDE DE CABLE ?
+
+Page 12 Text:
+Le processus d'activation est le méme pour ORANGE que pour hey! Cependant, vous pouvez trouver le processus
+d'activation dans le WM B2C SALESFORCE - CABLE sous I'onglet hey !
+
+Il y a une grande exception dans la création des contrats INTERNET. Pour ces créations Salesforce, vous devez
+TOUJOURS envoyer un contrat par e-mail ! Ceci a été adapté dans Salesforce WM également, donc ne signez
+JAMAIS MANUELLEMENT pour hey ! contrats Internet.
+
+Retour au début de la page
+
+H. COMMENT CREER UN DELIVERY ACCOUNT?
+
+Toutes les informations se trouvent sous la partie DELIVERY ACCOUNT dans le cas OMI. La partie d'encodage dans
+Salesforce se trouve dans le WM B2C SALESFORCE - CABLE sous I'onglet hey !
+
+DELIVERY ACCOUNT
+
+Delivery Address
+
+POSTAL CODE
+
+CITY : SINT-GENESIUS-RODE
+STREET NAME : Hof-ten-Hout
+
+HOUSE NUMBER 220
+
+TYPE OF HOUSING
+
+FLOOR
+
+LETTER
+
+POSTAL BOX
+
+APARTMENT NUMBER
+
+APARTMENT LOCALIZATION
+
+Existing TelenevVOO connection
+
+Additional information required (-303)
+
+Cable connection status : Yes
+
+CABLE CONNECTION STATUS - Value : Ground Net- Pavement
+Cable Signal Status : Cable without Signal
+EASY SWITCH ID =
+
+WHEN FACING THE BUILDING, GENERAL POSITION OF THE APARTMENT IS
+
+WHEN FACING THE BUILDING, THE APARTMENT IS ON
+
+Distribution type
+
+Distribution type : Underground
+
+Retour au début de la page
+
+I. COMMENT ENCODER LA COMMANDE DANS LE PANIER ?
+
+Page 13 Text:
+Toutes les informations se trouvent sous la partie INTERNET ORDER dans le cas OMI. La partie d'encodage dans
+Salesforce se trouve dans le WM B2C SALESFORCE - CABLE sous I'onglet hey !
+
+Internet order
+
+Internet
+
+Discount on set-up fees :No
+
+Cable access : Cable Access North
+
+Easy Switch :No
+
+Current operator : Pas de précédent opérateur
+Service to migrate from Donor operator
+
+Easy Switch ID Donor operator
+
+Customer code Donor operator
+
+Number of mobile numbers to cease at Donor operator Easy Switch
+Mobile number 1
+
+Mobile number 2
+
+Mobile number 3
+
+Mobile number 4
+
+Mobile number 5
+
+Number of fixed numbers to cease at Donor operator Easy Switch
+Fixed number 1
+
+Fixed number 2
+
+Wished MNP date
+
+Il est trés important de toujours vérifier la partie intitulée " DISCOUNT ON SET-UP FEES " (remise sur les frais de
+mise en service). Si le statut est YES, vous devrez ajouter la REMISE SUR LES FRAIS DE MISE EN SERVICE dans
+Salesforce.
+
+Internet order
+
+Internet
+Discount on set-up fees es
+
+Cable access : Cable Access North
+
+Easy Switch :No
+
+Current operator : Pas de précédent opérateur
+
+v hey Internet
+
+Remise sur ies frais de
+mise en service
+
+Retour au début de la page
+
+Page 14 Text:
+J. COMMENT ENCODER LA DATE D'INSTALLATION DANS LA COMMANDE ?
+
+Toutes les informations se trouvent sous la partie APPOINTMENT dans le cas OMI. La partie d'encodage dans
+Salesforce se trouve dans le WM B2C SALESFORCE - CABLE sous I'onglet hey !
+
+Appointment
+
+Installation date 1
+
+Date + 27-09-2023
+
+Timeframe : AM - (08:00 — 12:00)
+
+Installation date 2
+
+Date + 28-09-2023
+
+Timeframe : NOON - (10:00 — 15:00)
+Installation date 3
+
+Date 2 29-09-2023
+
+Timeframe : PM - (13:00 — 18:00)
+Contact person number
+
+Contact person phone number + 0032476919282
+Comment for OBE Technician
+
+Lorsque vous choisissez une date de rendez-vous, travaillez toujours de maniére chronologique. Commencez par
+sélectionner la PREMIERE date souhaitée dans le dossier OMI et, si cela ne fonctionne pas, choisissez la deuxiéme,
+et ainsi de suite.
+
+Retour au début de la page
+
+K. QUE FAIRE POUR UNE MIGRATION ORANGE TO HEY ! (CROSS-BRAND
+MIGRATION)
+
+Ces types de commandes sont visibles lorsqu'il s'agit d'une commande ou, dans la partie INTERNET ORDER, a coté de
+CURRENT OPERATOR, vous pouvez voir ORANGE.
+
+Internet order
+
+Internet
+Discount on set-up fees :No
+
+Cable access : Cable Access North
+
+Easy Switch : No
+
+Current operator : ORANGE
+
+Service to migrate from Donor operator
+
+
+Page 15 Text:
+Voici les étapes a suivre :
+1. Créez la commande entiérement comme demandé
+2. Regardez l'emplacement CABLE ACCESS sous la commande INTERNET dans le CAS OMI.
+3. Assigner manuellement le case OMI avec le méme niveau aux ASSIGN GROUPS suivants en fonction de I'ACCES
+AU CABLE
+
+¢ NORD: Assigner a Partner OMD Provisioning Cable
+¢ SUD: Assigner a Partner WBCC Provisioning Cable
+
+Retour au début de la page
+
+2.4. COMMENT TRAITER LE CASE APRES L'ENCODAGE ?
+Assurez-vous que le numéro de téléphone et de commande (sans les premiéres lettres ORD) figurent bien dans le
+case (les premiers 0 vont disparaitre, c'est normal), collez les worklogs utilisés en e-shop correspondant a vos actions
+
+et cloturez le case.
+Retour au début de la page
+
+3. DES QUESTIONS
+
+3.1. QUE FAIRE SI VOUS AVEZ DES QUESTIONS ?
+
+Demandez le Coach ou le PQE.
+Retour au début de la page
+
