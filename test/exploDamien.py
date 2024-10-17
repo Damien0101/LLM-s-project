@@ -17,10 +17,5 @@ for subdir, dirs, files in os.walk(rootdir):
                 
                 print(new_file_path)
 
-'''import pytesseract
-import cv2
 
-easy_text_path = "/data/image/'BOT_WM hey! Admin Portal FR.png'"
-easy_img = cv2.imread(easy_text_path)
-text = pytesseract.image_to_string(easy_img)
-print(text)'''
+
