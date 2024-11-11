@@ -1,0 +1,2680 @@
+--- Text from Data\BOT_WM hey! Admin Portal FR.pdf ---
+hey! - Admin Portal - Pour Back Office Technique
+
+TABLE DES MATIÈRES
+
+1.1. GÉNÉRALITÉS 1.2. MSISDN DÉJÀ ENR
+
+1. GÉNÉRALITÉS
+
+1.1. GÉNÉRALITÉS
+
+Lorsqu'un agent de back-office n'est pas en mesure de résoudre le problème du client, un agent de back-office (uniquement) peut assigner le case au ' Partner Everis/Digital Apps'
+
+*Service Plan: l ! é
+
+Customer Impact: M«ium v
+
+«
+
+/| _ Assigned To: | JaF3 A
+
+Retour au début de la page
+
+1.2. MSISDN DÉJÀ ENREGISTRÉ
+
+=  Le client n’arrive pas à s’enregistrer avec son numéro de téléphone.
+
+=  Peut-être que le MSISDN est lié à un autre compte (numéro réutilisé,…).
+=  C'est ici que vous allez utiliser les 2 écrans de recherche.
+
+=  Dans le 1er, vous recherchez le compte client avec son login e-mail.
+
+= Dans le 2ème, vous recherchez avec le MSISDN que le client essaie de lier à son compte.
+
+Par contre, ici
+
+nous pouvons
+constater que le
+- MSISDN est lié à
+Pas de MSISDN lié rr unautrelogin e-
+au compte pour le ‘ mail.
+
+moment. Il va d’abord
+falloir supprimer
+le lien ici pour
+ensuite lier le
+MSISDN au bon
+compte.
+
+Attention, avant l’opération suivante, contrôlez bien que le client utilise |e bon numéro de téléphone
+
+Vous cliquez sur
+‘Unlink’ en bas de
+l’écran afin de
+couper le lien.
+
+Et ensuite vous
+confirmez l’action
+en cliquant sur
+“Yes’ dans le pop-
+up qui apparaît.
+
+Maintenant vous
+cliquez sur ‘Link’
+pour lier le
+MSISDN au bon
+compte.
+
+Dans le pop-up,
+vous encodez le
+MSISDN et
+confirmez en
+cliquant sur ‘Link’.
+
+Retour au début de la page
+
+
+--- Text from Data\BOT_WM hey! Admin Portal NL.pdf ---
+hey! - Admin Portal - Pour Back Office Technique
+
+INHOUDSOPGAVE
+
+1.1. ALGEMEEN 1.2. MSISDN REEDS GEREGISTREE
+
+1.1. ALGEMEEN
+
+Wanneer een back office agent niet in staat is om het probleem van de klant op te lossen, kan (alleen) een Back office agent de case toewijzen aan de ' Partner Everis/Digital Apps'.
+
+*Case Status: Open - New v
+
+*Service Plan: ’ “
+
+CustomerImpact: | Medium v
+
+Assigned Team: p_‚ |e 5
+°| Assigned To: | aA '4
+
+a Phone number :
+
+»M
+
+Terug naar het begin van de pagina
+
+1.2. MSISDN REEDS GEREGISTREERD
+
+m De klant is niet in staat zich te registreren met zijn telefoonnummer,
+
+m Misschien is de MSISDN gekoppeld aan een andere account (hergebruikt nummer, … ).
+m Dit is hier waar je de 2 zoekschermen zal gebruiken.
+m jn de eerste, zoek je naar de klantencode met zijn e-mail login.
+
+m |n de tweede zoek je met het MSISDN dat de klant aan zijn rekening probeert te koppelen.
+
+Hier zien we dat
+het MSISDN reeds
+is gekoppeld aan
+- een ander email
+Er is momenteel == login. Je moet
+geen MSISDN aan : eerst de link hier
+
+het account i verwijderen en
+
+gekoppeld. 5 vervolgens de
+MSISDN aan het
+juiste account
+koppelen.
+
+m Opgelet !! vóór de volgende handeling, controleer of de klant het juiste telefoonnummer gebruikt
+
+Je klikt op ‘Unlink’
+onderaan het
+scherm om de link
+te verwijderen.
+Bevestig daarna de
+actie door op ‘Yes'
+te klikken in de
+pop-up die
+verschijnt.
+
+Nu klik je op ‘Link’
+om de MSISDN aan
+het juiste account te
+koppelen.
+
+In de pop-up, vul je
+de MSISDN in en
+bevestig je door op
+‘Link' te klikken in
+het pop-up venster.
+
+Terug naar het begin van de pagina
+
+
+--- Text from Data\CT hey! Our Offers evolve_Revamp of our Mobile Portfolio! ENG.pdf ---
+hey! Coaching Tip
+
+New Mobile portfolio!
+hey! ney!
+
+01/06/2024 Our Offers evolve | Revamp of the hey! Mobile Portfolio 2024!
+
+Say HEY to a NEW MOBILE PORTFOLIO!
+As from 01/06/2024 , our hey! offers EVOLVE!
+
+WHAT WILL CHANGE?
+
+CHANGE N°1:
+As you know, our actual portfolio consists of 3 Tariff Plans: 26GB , 20GB and 80GB.
+
+Instead of 3 TP’s, we will now offer 4 NEW TARIFF PLANS AS FROM ‘st of JUNE 2024 :
+
+hey! mobile S hey! mobile M hey! mobile L hey! mobile XL
+50GB 16068
+
+150 Mins of VOICE 300 Mins of VOICE Unlimited VOICE Unlimited VOICE
+500 SMS 4000 SMS Unlimited SMS Unlimited SMS
+20GB in EU 35GB in EU
+
+7€ /month 9€ /month 14€ /month 25€ /month
+
+CHANGE N° 2:
+The hey! BOOST & YOUTH PROMO WILL NO LONGER EXIST!
+
+IMPORTANT INFO:
+
+Customers currently having the Youth promo active, will keep it until they are 26y/old!
+The Youth Promo also remains active in case of a Tariff Change!
+
+WHAT ABOUT EXISTING CUSTOMERS?
+
+There will be a FORCED MIGRATION to the new Tariff Plans!
+
+Existing hey! 2 GB customers --> | Will be automatically migrated to hey! mobile S
+
+Existing hey! 80 GB customers --> | Will be automatically migrated to hey! mobile XL
+
+» ¢ FOR EXISTING CUSTOMERS HAVING THE 20GB TP: > ¢
+
+- Existing customers with the 20GB TP will now have 20GB Extra => 40GB as from 01/06.
+The price remains the same, only their Data changes to 40GB.
+- The name of the TP changes to: "hey! 20GB boostés"
+
+hey! 20 GB boostés hey! 20 GB boostés
+
+ey a , + in Belgié/EU
+% 40 GB en Belgique/UE (au lieu de 20 GB) (in plaats van 20 GB)
+% Appels illimités # Onbeperkt belien
+
+* Onbeperkt SMS’en
+
+* sms illimités
+
+at allemaal voor dez
+
+- ATTENTION: The 20GB TP will NO LONGER BE COMMERCIALIZED / SOLD ANYMORE !
+
+(For New customers)
+
+- An existing 20GB customer can do a Tariff Change to one of the new TP’s but CANNOT go back to the old TP
+afterwards!
+
+WHAT IF THE CUSTOMER HAS AN ONGOING PROMO, WILL THE PROMO REMAIN ACTIVE?
+
+YES!
+If the customer (with TP 20GB or 80GB) has an ongoing promo (for example the -5€ for life promo), he will keep it!
+
+Also in case of a tariff change, the customer keeps his promo!
+(Except if the customer has the Double data promo, he will lose the promo in case of a tariff change)
+
+INFORMATION TOWARDS CUSTOMERS
+
+All existing customers will be informed of these changes via email on 31/05 . No action is required from their side
+(except if they want to change their tariff plan, they can request this themselves via My hey! ).
+
+Hey {Name},
+
+Ton abonnement mobile hey! 2 GB évolue et
+devient encore plus avantageux |
+
+A partir du 1 juin;
+1. Ton abonnement actuel change de nom el devient hey!
+
+mobile S ;
+
+2. Fini le hey! boost, on te donne directement toute ta data
+mobile sans altendre 1 an ;
+
+3. Tu disposes directement d'un volume de data plus
+important !
+
+hey! mobile $
+
+% 5 GB en Belgique/UE (au lieu de 2 GB)
+#% 150 min d'appols (au licu de 66 min)
+* 500 sms
+
+-t toujours au meme prix !
+
+(7€ hors promo)
+
+Et comme une bonne nouvelle n‘arrive jamais
+seule |
+
+Si tu as une promotion active ou la réduction jeune, tu la
+conserves. Elle est pas belle la vie | =
+
+Que dois-je faire 7
+
+Hey {Name},
+
+Je hey! 2 GB mobiele abonnement evolueert
+en wordt nog voordeliger!
+
+Vanaft 1 juni
+
+1.
+
+Je huidige abonnement verandert van naam en wordl
+hey! mobile S
+
+. Geen hey! boost meer
+
+HOE WORDEN KLANTEN GEÏNFORMEERD?
+
+Alle bestaande klanten worden op 31/05 via e-mail op de hoogte gebracht van deze veranderingen.
+
+Ze hoeven zelf GEEN actie te ondernemen (behalve als ze van tariefplan willen veranderen, dit kunnen ze zelf aanvragen via My hey!).
+
+Hay {Name},
+
+Je hey! 2 GB mobiele abonnement verandert
+en wordt nog voordeliger!
+
+Vanaf 1 juni
+1. Je huidige abonnement verandert van naam en wordt
+heyl mobile S
+
+2. Geen hey! boost meer, je krijgt onmiddellijk al je mobiele
+data, je hoeft niet langer 1 jaar te wachten;
+
+3. Je beschikt onmiddellijk over een groter datavolumel!
+
+heyli mobile S
+
+# 5 GB in België/EU (in plaats van 2 G8)
++ 150 minuten bellen (in plaats van 60 min)
+
+* 500 SMS'jes
+
+En goed nieuws komt nooit alleen!
+
+Geniet je nu al van een actieve promotie of de
+jongerenkorting? Dan behoud je die! Is het leven niet moo:7
+-
+
+Wat moet ik doen?
+
+Hay {Name}
+
+Je hey! 20 GB mobiele abonnement verandert
+en wordt nog voordeliger!
+
+Vanaf 1 juni
+1. Je huidige abonnement verandert van naam en wordt hey!
+20 GB boostés ,;
+
+2. Geen hey! boost meer, je krijgt onmiddellijk al je mobiele
+data, je noeft rúet langer 1 jaar te wachten;,
+
+3. Je beschikt onmiddellijk over een groter datavolume!
+
+heyl 20 GB boostés
+
+# 40 GB in België/EU (in plaats van 20 GB)
+* Onbeperkt bellen
+* Onbeperkt SMS'en
+
+En goed nieuws komt nooit alleen!
+
+Geniet js nu al van een actieve promotie of de
+jongerenkorting? Dan behoud je diei Is het leven niet mooi?
+-
+
+Wat moet ik .
+
+
+Hay {Name},
+
+Je hey! 80 GB mobiele abonnement verandert
+en wordt nog voordeliger!
+
+Vanaf 1 juni:
+1. Je huidige abonnement verandert van naam en wordt hey!
+mobiie XL ;
+
+2. Geen hey! boost meer, je krijgt onmiddelljk je mobisle
+data, je hoeft niel langer 1 jaar te wachten;
+
+3. Je beschikt onmiddellijk over een groter datavolume!
+
+heyli mobile XL
+
+# 160 GB In België (in plaats van 80 GB)
+
+* Waarvan 35 GB in de EU
+
+* Onbeperktbelien
+
+* Onbeperkt SMS'en
+
+En dat allemaal voor dezelfde prijs!
+
+L _
+
+( 25 axciusief g:romcítio]—
+
+En goed nieuws komt nooit alleen!
+
+Geniet je nu al van een actieve promotie of de
+jongerenkorting? Dan behoud je die! Is het leven niet mooi?
+-=
+
+Ik wil switchen van hey!-abonnement =
+
+Heel eenvoudiger, ga gewoon naar je My heyl-zone
+
+Let op:
+
+Als je momenteel van een promotie geniet en je verandert
+van abornnementsformuie, dan geniet je niet langer van deze
+promatie. Je vindt je promotie terug in je My hey!-
+klantenzone
+
+Geniet je van de -26-korting? Dan behoud je deze op je
+nieuwe abonnement.
+
+Je hey!l-team
+
+In Orange Learning kan je de aangepaste E-Learning terugvinden:
+Voor Team members: NL FR
+Voor Externen: NL FR
+
+Heb je nog vragen? Aarzel dan niet om jouw Team Leader of Coach te contacteren.
+
+Monthly price: 7€/month
+Promotions
+
+Promotions 2
+
+Number configuration: New number
+Type of card: POST
+ATTENTION:
+
+Ces demandes sont encodées en magasin. Une carte SIM est donc donnée aux clients.
+
+Il ne faut donc pas la commander pour envoi comme une demande hey! par le WEB mais l’encoder directement dans la
+demande: Voyez la section "Seller Details”
+
+Seller Details
+
+-: 7150001166954
+seller ID: Singh TAJINDER
+seller Aramis Code: PICKN001
+
+En plus des données du vendeur, vous avez la SIM qui a été donnée au client.
+
+1) Créez le nouveau Ordre hey!
+
+Compte ctænt
+
+78814 78814 - HEY Account /
+
+Srasut Langue Secieur Atteetan
+
+Prospert R Hey Residental
+
+Nom de compre clert Stane
+78814 78814 - HEY Account ‘  Frospen
+Compte proncoe Secteur
+
+‘ Hey Ressdential
+
+Mive à jour des produits et sereoes @
+
+Arvvation cert mporte
+
+w Account Details
+
+Préem Gerwe
+76814 ‘ inconnu ‘
+Masm e darméie Date de naisianer @
+8814 ‘ 7,02/1989 P
+Longue
+se ‘
+
+w Contact Details
+
+Type de documert d'itesrsé Tpe de carte ei
+
+Carte e(D fourrie par tes autontés ‘ Carte d'identté électronique
+
+beiges
+
+Muméro de carte d'isentsé Mumé-o ce regiuitre ucc @
+917066777472 #  AxpNCollONSy062adwe= ‘
+Date devisvon Dute d'exp<aton
+
+Caoyhgueet e dermarste Unte de rrs
+ecroeus v
+
+PANIER D'ACHAT: PRONOTIONS
+
+Unée de ps de Gane -
+- y Postain B 150e c. € Au
+-
+
+Ventes Accuel Comptes cherts v fecherche compte chent Cemances v
+
+Produits et servicer v Rappont: v Progectz w Cét Emat Fom v
+
+PRODUITS ET SERVICES ACTIFS
+
+Pas de produits où services
+
+PRODUITS ET SERVICES SUSPENDUS
+
+Pas de produits où sorvices
+
+PRODUITS ET SERVICES INACTIFS
+
+Pas de produits ou services
+
+væue doern
+
+MNP Details
+. P A … emérateus
+Ornge
+*
+Plon tattare encen rpacatme
+Prepes
+N° de cete rr encen ogersteur
+
+611401257820
+
+Numiber Dotails
+
+masTe
+
+Ttpoe 4 decerde Vn ce prte
+ec pieus v
+
+Panttn D'ACHAT
+
+Options dexpédior
+UM Carc Dets
+1340 r
+Numéso à
+défins par
+Vopérateur Nouvetie éSIM 0ù renozrenllermernt carte e5FM
+motle
+Pertage d'un d dores ° x
+rumérs
+Duta Managemert
+»
+
+Resousvelierment de carte SEM plryniquer
+
+2) Lorsque l'ordre est en 'Configuration en cours' => Modifiez le champ Canal par hey! Shops et ajoutez le Channel Order ID
+
+*sepee compta cient
+| - -
+Certiguraton en cours L }° Feter Cmocge - EY Accoune x
+yme 3e Serande der
+ommercs DCOOIDEL
+.'(.' caicuié e3 e / erreputrement
+Late de pr Donneet de facturstion et de carmert
+
+r Ohocge « HEY Account « Bülng « 218
+
+l Mey! Shops L ‘
+Frogretaire de ta commande
+Œ 1EAN-MICHEL D'ACKS
+Code sex »
+
+3) Passez l’ordre en configuation terminée.
+Il nous faut maintenant changer le propriétaire de la commande et le code dealer.
+
+Cliquez sur le petit bonhomme à droite dans Propriétaire de la commande :
+
+Canal
+hey! Shops
+
+Progrietaire de !a commande
+CI Test0!_heyaitchan_fr TESTO1_HEYALICHAN LN .
+
+:( chermp es caiculé &3 de l"'ï:”l"‘l"
+Vous obtenez l’écran suivant.
+
+Sélectionnez Utilisateurs partenaires après avoir cliqué sur la flèche vers le bas pour obtenir le menu déroulant:
+
+Changer le propriétaire de la demande
+
+m Recherchez dans |es Utilissteurs…
+B Utilisateurs
+
+B Utilisateurs du portail Client
+
+balement propriétaire des enregistrements associés à ON-
+Utilisateurs partenaires heyaltchan_fn TESTO1_HEYALTCHAN _ LN.
+
+© Actvités ouvertes
+
+Annuler l Modifier le propriétaire
+
+Collez le code dealer (Aramis) dans la fenêtre de recherche et sélectionnez le bon vendeur :
+
+Résultats pour Utilisateur partenaire
+
+Personnes
+
+1oeetats » Vée par Pertmeren w
+
+now COMMET VONCTION 1
+
+PS arcirermes srr us
+
+Top
+
+Une fois sélectionné, cliquez sur Modifier le propriétaire pour confirmer le changement de vendeur.
+
+Le vendeur est bien mis à jour :
+
+Assocé Détails
+
+fn
+Cortiquention 1emirée ‘
+
+T00 de serranta
+Commecs
+
+fuspension *ype
+
+vs aédecemate 194e
+
+Laste 54 zr
+
+ESC Prigæ L
+
+ERE Orse hmbe
+
+cc1éess ‘
+Cearmat Crser D
+
+26szotrs
+
+Erocive Tret Cre Tirme Crurges
+
+e
+
+T0s c03 Morseet
+
+cæ
+
+“peu Cre Tirme Crarge e3 amg va®
+en
+
+ATTENTION: Veillez à mettre les bonnes informations! Aucun changement n'est possible par la suite.
+
+4) Soumettez l'ordre vers NOM, créez le contrat.
+
+Crese le contrat
+
+tvauves veus crer be tostat pour ce Serrande”
+
+Le statut a été modifié.
+
+ﬂ ON-15312827
+
+Nem du compte chent Date de début de la demande Statut User Channel Coude dealer A
+78814 78814 - HEY Account 26/02/2024 Soumis avec succés ANTA-MOBILE ANTAMOO2
+
+Effective TotaË. One Time Charges
+*0.00
+
+Total coûts mensuels
+
+*7,00
+
+Totai One Time Charge excluding VAT
+é0,00
+
+Nom du compte client
+78814 78814 - HEY Account
+
+Compte clent
+001MTO00005uLfn
+
+Données de facturation et de paiement
+78814 78814 - HEY Account - Billing - 16642978
+
+Compte chent du donneur
+
+Nom du shop
+ANTA-MOBILE SPRL (AGENT) (DISTRIBUTOR)
+
+— rr -
+
+.…
+2ee Vontes hotuel - Cceprei detus v Facherimeé corépée cwt Dertunées v Precdor dt rervioet v Fasperts v Preipeti w CB frisd Fliewt v
+Compte dent ‘
+T'abéreser Séter lasrweie L vobke carrands a
+78814 78814 - HEY Account “ 2 50 M cs sd ccn scnnei tl
+sans vrapre tecme Ansevtes
+Tient m Hey Resdential
+
+PRODUITE ET SEAVICES ACTIFS
+
+N du vompie tbent septt
+18614 78214 - HEY Actturt #  Dent Recommandations et dernières Interactions
+
+Congte ps sactes
+
+Ce compne clucer r'eur pas élagible ux cecoaumandene
+‘ rtey Perctentio!
+
+“ heyPostguës vnQLe1 -
+
+» 200
++ Accoun Detais
+
+Preccre 0
+T8s ‘ inconeu ‘ e
+rwoke
+harr =0 <a=5e Der srrr @ reucity Me
+Tag1é ‘ TS21005 ‘
+srr Wons
+R ‘
+
+Cocsrage
+
+w Comact Details Muttimecdia bctive sæ Dermande tractiee avec socnes
+Parchaues en 0-07-2006 13 [= déce/20t4 V13N
+
+Trpe ce tocamesl d'cerine Tyve de cœte <C
+
+Carté €D fcurrée pôr es autornés ‘ Carte Ecerté Eectromque
+beiges
+
+Top
+
+DEMANDES EN ATTENTE OU REJETÉES
+
+Notre management désire avoir la meilleure vue possible sur les demandes en attente ou rejetées. Vous pouvez
+en effet dans certains cas devoir envoyer un email au client pour lui demander une copie du document
+d'identité, des précisions sur la carte SIM ou lui signifier le rejet.
+
+Lors de l'envoi de cet email, veuillez ajouter en CC :
+e heysap@orange.be
+
+C'est l
+
+**Signature Agent:**
+- Vous pouvez utiliser un emoji de votre choix à côté de votre nom, mais vous devez vous limiter à un seul emoji.
+Par exemple : Samia 😄
+
+**Utilisation des emojis dans les conversations:**
+- Nous aimerions limiter l'utilisation des emojis et les utiliser là où c'est utile.
+- Pour simplifier les choses, nous vous demandons d'utiliser un maximum de 2 emojis par conversation.
+- Vous pouvez les placer là où c'est adapté/pertinent.
+
+**Émojis à éviter dans les conversations:**
+
+&
+©@9868
+
+V HO V 99 ÈRe
+V 7 9 9HVO®
+dh P Ÿ V V & S 9 ®
+©
+
+**Texte du document "hey! - Guide de communication NL.pdf"**
+
+**Objectif du guide de communication**
+
+Le but de ce guide de communication "hey!" est de rappeler les règles de communication pour les chats/conversations sur les réseaux sociaux.
+
+**1. Ton de la voix**
+
+**2. À faire et à ne pas faire**
+
+**3. Appels sortants/Uitgaande gesprekken**
+
+**4. Public vs. Privé**
+
+**5. Modèles de réponses**
+
+**6. Utilisation des emojis**
+
+**1. TON DE LA VOIX**
+
+Le ton de la voix est la manière dont nous communiquons et qui est fortement alignée sur la personnalité de notre marque. Notre ton de la voix se retrouve dans chaque expérience que les gens ont avec "hey!". Dans la publicité, les relations publiques, la communication d'entreprise, les offres, notre site web et même dans un simple e-mail ou SMS. Nous simplifions tout avec "hey!".
+
+**Points importants:**
+
+1) Utilisez toujours "Vous", mais si le client fait une remarque à ce sujet ou n'accepte pas, passez à "vous".
+2) Utilisez votre propre nom en signature.
+3) Si vous n'êtes pas sûr du prénom du client, saluez-le simplement par "Bonjour, Salut, Bonsoir,...".
+
+**Notre personnalité de marque:**
+
+- Simple
+- Spontanée
+- Encourageante
+- Ouverte
+- Directe
+- Bienveillante
+- Enjouée
+- Positive et sincère
+
+**Règles:**
+- Phrases courtes, claires et informelles, sans jargon.
+- Langage numérique, mais compréhensible par tous.
+- "Vous" en NL et "tu" en FR.
+- Anglicismes (par exemple, Let's go ! en NL)
+- "hey!" est le nom correct (par exemple, App My hey!, My hey !-app)
+- Informel : parlez en "nous", "on", "wij"
+- Pas de point après "hey!" à la fin d'une phrase (hey!.)
+- Autres signes de ponctuation (,:;?-) autorisés (par exemple, hey!-factuur)
+- Puces : uniquement un tiret au début, avec espace, pas de ponctuation ou de majuscules (par exemple, - puces).
+- Pas de ponctuation sur les majuscules (par exemple, A)
+
+**Exemples:**
+
+- hey!
+- My hey!-app
+- Votre My hey! (= Espace client)
+Do you have a question? Heb je een vraag? heytelecom.be/nl
+- Personnalisez : Bonjour, Salut, Bonsoir,...
+
+**- Lors du traitement d'une conversation transférée par le chatbot**
+
+**- Si une analyse est nécessaire :**
+
+- Bonjour, j'ai pris le relais de la conversation. Si j'ai bien compris, le problème est XXXXXXXX
+
+- Bonjour, je vois que l'assistant numérique n'a pas pu vous aider :-(. Ne vous inquiétez pas, je prends le relais à partir de maintenant.
+
+**- L'agent peut personnaliser le message d'accueil**
+
+**Message d'accueil**
+
+**- Pour les conversations sur les réseaux sociaux :**
+- Il suffit de personnaliser et de ne pas utiliser "hey" comme message d'accueil, mais plutôt Bonjour, Salut, Bonsoir,...
+
+**Avoir une belle journée !**
+Fijne dag!
+
+**Clôture** **See you soon !**
+Tot snel!
+
+**Prenez soin de vous !**
+Bonne journée !
+
+**Signature** Prénom de l'agent
+
+**Entité juridique** hey!/Orange Belgium nv/s.a.
+
+**2. À FAIRE ET À NE PAS FAIRE**
+
+**Retourner en haut de la pange**
+
+**À faire**
+- Adaptez votre ton à celui du client.
+- Restez toujours poli.
+- Commencez la conversation par le nom du client ou son nom de profil.
+- Utilisez votre nom (Facebook) ou vos initiales (Twitter) en signature de votre réponse.
+- Utilisez des Gifs, des images, des smileys,... (mais pas toujours les mêmes et uniquement si c'est approprié)
+- Envoyez des liens vers notre site web ou notre communauté - Digital Care
+- Utilisez la forme "Vous" en néerlandais
+- Faites attention à l'orthographe et à la grammaire
+- Demandez les données du client uniquement par DM/Message privé
+- Limitez votre humour, assurez-vous que le client l'accepte.
+- Si vous n'êtes pas sûr du nom du client, commencez la conversation par "Bonjour", sans le nom du client.
+- Soyez proactif dans vos réponses : si vous proposez une solution au client et qu'il doit entreprendre une action, dites-le dans la conversation.
+- Si une partie ne respecte pas les règles et se comporte d'une manière qui n'est pas tolérée, vous pouvez renvoyer le client vers ce site web : https:**//hierniet.be/
+
+**À ne pas faire**
+
+- Ne soyez pas trop formel
+- N'utilisez pas l'ironie
+- Ne terminez pas les messages "CARE" sans les répondre
+- Ne publiez pas d'informations personnelles en public
+- Même si le client est insultant, ne répondez pas par une insulte
+- Si une partie ne respecte pas les règles et se comporte d'une manière qui n'est pas tolérée, vous pouvez renvoyer le client vers ce site web : htíps:**//hierniet.be/
+
+**Retourner en haut de la pange**
+
+**3. APPELS SORTANTS/UITGAANDE GESPREKKEN**
+
+**Quand pouvez-vous appeler un client (hey!) ?**
+
+1. À votre instinct : lorsque vous avez un client au bout du fil qui a du mal à comprendre vos explications ou qui est frustré ( par exemple : en cas de problème de facturation, de réseau ou d'activation,... )
+
+Si vous avez le sentiment qu'il vaut mieux appeler le client par téléphone, faites-le sans hésiter. Cela améliorera également la satisfaction et l'expérience du client (et le problème sera ainsi résolu plus rapidement).
+
+**Exemples de phrases:**
+
+-"J'ai l'impression que mes explications ne sont pas très claires et je trouve important que vous obteniez les informations correctes sur votre demande. Si cela ne vous dérange pas, j'aimerais vous rappeler pour résoudre le problème. Est-ce que cela vous va ?"
+
+-"Nous pouvons poursuivre via ce chat, je vais vous poser quelques questions pour mieux comprendre le problème de réseau/données/facturation et vous aider davantage. Si vous le souhaitez, je peux aussi vous appeler. Est-ce que cela vous convient ?"
+
+**EXCEPTIONS:**
+
+- Si un client demande directement si hey! propose une aide par téléphone (sans que le client nous ait contactés au préalable / pas d'historique dans Khoros)
+
+=> Dans ce cas, il est important de demander comment nous pouvons vous aider via le chat. Si le client continue à dire qu'il/elle a un problème, vous pouvez répondre ce qui suit :
+
+"hey! est une marque **digitale**, c'est pourquoi je vais vous aider via ce canal si cela vous convient. Je ferai de mon mieux pour résoudre Íouw problème. Si nous constatons que les explications ne sont pas très claires, je vous promets que nous poursuivrons notre conversation par téléphone."
+
+**Dans PeopleSoft:**
+
+**Comment enregistrer cela dans PeopleSoft ?**
+
+Nous sommes en train de créer une nouvelle interaction dans PS pour enregistrer ces appels sortants => plus d'informations à venir.
+
+Pour l'instant, vous pouvez enregistrer ces cas dans "Inbound Chat".
+
+**Important :** Ajoutez "outbound call" dans votre journal de travail et n'oubliez pas de mettre "Social Media" comme source !
+
+N'oubliez pas non plus de faire un "Close the loop" à la fin de la conversation, afin de fermer complètement la conversation et d'envoyer un CSAT au client.
+
+**Comment devez-vous noter cela dans notre Social Media Monitoring Grid (élément pour les appels sortants) :**
+
+07. Conversation **ControV**/'Choice of communication
+
+Dans cet élément, nous évaluerons le fait que l'agent peut ou non contrôler la conversation qu'il a sur SoMe. Si le client devient viral, nous évaluerons la réaction de l'agent dans cet élément.
+
+Nous évaluerons également le type de communication que l'agent a choisi d'utiliser.
+
+La communication principale se fait par écrit, mais en cas de solution de blocage, l'agent doit proposer de passer à l'appel.
+
+Pour le câble : l'agent peut demander d'appeler directement le client pour dépanner
+
+5. CABLE PROCESS
+
+5.1. PEOPLESOFT
+
+m ORANGE agents: Kies voor een Hey! -klant gebruik altijd de : Interaction log : Transfer to hey!
+
+rert … B t t t
+Contact Method:
+
+Recall Pending Case
+Customer Mood: Self-Care Interaction
+SocMed Outbound
+Succesful
+Transfer to Bus
+Transfer to Orange
+
+*Interaction Status:
+
+BELANGRIJK: na een oproep van een hey!-klant naar 5000 moet er altijd een nota gemaakt worden in de Worklog: bv. hey!-
+klant, wij kunnen hem niet helpen, klant doorverwezen naar de hey!-website.
+
+m Hey!-agenten: voor een ORANGE -klant kies je in PeopleSoft de levels naargelang de vraag van de klant =>
+zie CASEBOOK.
+
+BELANGRIJK:als dit een aanvraag was voor hey! gebruik dan de levels Internal Use - Incoming request CS - HEY
+information en kies het hey! -product volgens de prijslijst. HERINNERING: als hey!-agent moet je niet vergeten van nummer van
+het gesprek in Khoros toe te voegen en de bron van het gesprek 'Social media'.
+
+Terug naar boven
+
+5.2. MY HEY ZONE CREATION + LOGIN
+
+Terug naar boven
+
+5,3. INFORMATIE OVER DE LANCERING (28/09/2023)
+
+Je kunt alle informatie vinden op de coaching tip genaamd "Coaching Tip - hey! - Launch Fix Offer “
+
+Terug naar boven
+
+5.4. ALGEMENE INSTALLATIE-INFORMATIE
+
+INHOUDSTAFEL
+
+A. INSTALLATIEKALENDER + UITZONDERINGEN | B. CROSS BRAND MIGRATION (ORANGE ==> HEY!)
+
+A. INSTALLATIEKALENDER + UITZONDERINGEN
+
+m Prospects kunnen pas na 10 dagen worden geïnstalleerd
+
+m Kalender toont alleen mogelijke data 10 dagen of later vanaf de dag van encodering
+
+m EVE+WE installatie NIET mogelijk! (Het is onzichtbaar op de website maar het is zichtbaar in Salesforce, encodeer
+dit niet als de klant hierom vraagt!)
+
+October 2023
+
+
+Er is geen mogelijkheid om een BYPASS te boeken voor hey! -klanten voor installatiedoeleinden!
+
+Terug naar boven
+
+B. CROSS BRAND MIGRATION (ORANGE ==> HEY!)
+
+Klanten die van Orange naar hey! -overstappen, worden crossbrand-migratieklanten genoemd.
+m /e mogen hun huidige INTERNET modem houden!
+
+Op de website/klantenzone moeten ze 3 installatiedata kiezen, ze krijgen een bevestiging van een installatie,
+
+MAAR ze worden teruggebeld met de mededeling dat ze niet worden bezocht door een technieker. Alles wordt
+op afstand uitgevoerd.
+
+Terug naar boven
+
+In order to give a boost to our Sales, it has been decided to sell our hey! offer via some physical channels.
+
+As from 04/12/2023 , the following shops will be able to encode hey! offers in Salesforce :
+
+Distributor: Servcom
+
+Wayezstraat 168
+1070 Anderlecht
+
+Léon Theodorstraat 8
+
+1090 Jette
+
+Chaussée de Mons 1091
+
+MediaPro 1070 Anderlecht
+
+Elsensesteenweg 90
+
+PhonePrice 1050 Elsene
+
+Waterloosesteenweg 690/5
+1180 Ukkel
+
+PicknPay
+
+Distributor: Technocom
+
+Stenenbrug 44
+Technocom RAL 2140 Antwerpen
+
+Leuvensesteenweg 946
+Call Company 1140 Evere
+
+
+Vanderkinderestraat 115A
+
+Dream Link 1180 Ukkel
+
+Alsembergsesteenweg 7
+1060 Sint-Gillis
+
+Atlas Communication
+
+Chaussée de Louvain 32
+
+Charra Mohamed 1210 Bruxelles
+
+Boulevard Emile Bockstael 247
+
+Multiservice 1020 Bruxelles
+
+Note: These distributors/shops are already selling Orange Prepaid cards.
+
+WHAT WILL THEY SELL EXACTLY?
+
+These shops will only sell & encode New Mobile activations (GET only).
+NO hey! Fix offer and NO changes on an existing hey! customer!
+
+IN SALESFORCE
+
+These shops will use the Partner Community version of Salesforce (same as the one used by Smart SN) for encoding the new activations.
+INFO: By looking at the Dealer Code field, you can see who entered the order in Salesforce.
+Activation done by: | Dealer code:
+
+CSOFO003
+
+Other dealer codes
+for example:
+
+SERVCO13
+TECHNO35
+
+Note: The offer does not change at all between the digital version and the one offered in one of these shops.
+
+**WHAT IN CASE OF ISSUES?**
+
+= The shops should contact POS Sales Support for Salesforce-related problems (problem when encoding, error message that is not clear, etc.).
+
+= If the customer has any other issues (network, invoice, tariff change, ...), customer and/or shop needs to contact us via the Hey! chat available on the website.
+
+Note: Same rules remain and apply to all customers, including (new) customers who have requested their services via a shop.
+
+**1.16. MIGRATION OF ZUNY CUSTOMERS TO HEY!**
+
+We have created a dedicated page for this! Please go to WM Hey! - Migration of Zuny customers to Hey!
+
+**1.18. 3G PHASE OUT**
+
+As you might know, 3G will gradually disappear over the next 2 years. We still have 32 customers with access to 3G. That's why we are planning to inform and warn them about the phase-out.
+
+We will advise customers to change their smartphone to benefit from the new 4G and 5G technologies. If they don't, they will be switching to 2G and lose connection quality.
+
+The impacted customers (32 customers) will receive the following SMS on 11/03/2024:
+
+Hey!: Le réseau 3G que tu utilises avec ton GSM va disparaître en Belgique. Si tu ne changes pas de GSM, il sera alors incompatible avec notre réseau 4G/5G et tu perdras en qualité de connexion car tu basculeras sur la 2G. Pour continuer à appeler et surfer en toute tranquillité, change de smartphone possédant les nouvelles technologies 4G/5G.
+
+**WHAT IF YOU RECEIVE QUESTIONS ABOUT IT?**
+
+You can use the following arguments to explain the situation to the customer:
+
+“The 3G network that you use to call and surf with your current phone will gradually disappear in Belgium. As a result, you will switch to the 2G network and lose connection quality, especially when surfing.”
+
+Why will the 3G network disappear?
+
+- Less people have mobile phones that use the 3G network
+
+- 4G and 5G technologies consume less energy, offer a more reliable and stable connection and a much better surfing experience.
+
+--- Text from Data\Hey! - Homepage - General FR.pdf ---
+
+Hex! Homegage - General
+
+=
+
+TABLE OF CONTENTS
+
+1.1 INTRODUCTION 1.11. MY HEY APP
+
+1.2. TONE OF VOICE .12. CONVERSATIONS HEY! DANS KHOROS
+
+1.3. COMMUNICATION GUIDE & PUBLIC vs PRIVATE 1.13. SUJETS SENSIBLE VIA LES RESEAUX SOCIAUX
+
+1.4. SITE WEB EN PANNE (WEBSITE DOWN) 1.14. CSAT Hey!
+
+1.10. WHEN CAN WE MANUALLY ENCODE A HEY! ORDER IN SALESFORCE?
+
+BACK TO TOP OF PAGE
+
+Hey! - What is Hey!?
+
+Hey! customers will be treated in a purely digital way:
+
+= A transparent offer with 4 postpaid tariff plans to choose from (different from Orange tariff plans!); hey! has no prepaid tariff plans!
+= Easy to use and manage via mobile;
+
+= A friendly price.
+
+Please note:
+= All tariff plans and the Internet offer are compatible with the social tariff, the loyalty advantage, Orange Thank You, the multi-card advantage or the convergence.
+= Customers can have a maximum of 5 SIM cards under their Hey! customer account.
+= Since we only offer postpaid tariff plans, there will be no recharges.
+= At launch, customers will not be able to order options. Options will be added later.
+
+= When existing Orange customers switch to Hey!, the same SIM card can be used, a change of SIM is NOT necessary.
+
+How to recognize Hey! customers?
+
+The Hey! customers will be identified in Salesforce, BSCS and PeopleSoft …
+
+Êuppgr£du Customer ervice
+
+e No support via 5000, nor via the shops!!
+
+= Support will be digital: via the website heytelecom.be , My Hey! Facebook, Twitter, Instagram and chat. Via chat, the customer will be guided to find the information themself (via a chatbot or an agent of the Hey! team).
+
+= If the customer calls 5000, always check if it is a Hey! customer in Salesforce, BSCS or PeopleSoft, they will be identified.
+
+# If it is a Hey! customer, tell them you cannot help them. They must go to the website heytelecom.be ... and follow the chat. If necessary, the Hey! team takes over the conversation from the chatbot to process the request.
+
+= If a Orange customer calls 5000 to become a Hey! customer, we make a churn fight. If the customer still wants to become Hey!, we tell them to visit the webpage heytelecom.be. We do not transfer them.
+
+Eomment_s'adresse à_Li lien Ety!_quand on_dgi£l'agpel r pour n dossier?
+
+Greeting : Hello, c'est < prénom > de chez Hey!. Je t'appelle à propos de ta demande / ta question / ton souci
+
+Closing : Si tu as une autre question ? Si je peux t'aider, dis-moi, je suis là ! OK, alors je te souhaite une très bonne [journée/soirée/week-end] !
+
+Useful information
+
+The processes / tools for Hey! customers will be the same as for Orange customers with some exceptions, these will be described in each work methods.
+
+If a Hey! customer presents an exceptional situation e.g. Move, Bankruptcy ... treat them as an Orange customer and fill in the script in PeopleSoft ... . => check CASEBOOK if necessary.
+
+Start of page
+
+1. GENERAL
+
+1.1. INTRODUCTION
+
+IVR
+
+= We will make a distinction in the IVR with segmentation.
+
+= The Hey! customer will not be able to enter via 5000.
+
+Web
+
+# See link.
+
+= See WM My hey! app with the explanations for the use of the app
+
+My hey!
+
+= See link.
+
+Hey! tariff plan
+
+= Link to WM commercial WM: Hey!
+= Link to website: https://www.heytelecom.be/fr
+
+# More info on Roaming & International: https://Www.heytelecom.be/fr/aide-et-support/ma-consommation-et-ma-facture/quelle-est-la-difference-entre-le-roaming-et
+
+Hey! community
+
+= See link
+
+Start of page
+
+1.2. TONE OF VOICE
+
+The TONE OF VOICE is the way we communicate, and it is deeply aligned with the personality of our brand. Our tone of voice manifests itself in every experience that people have with hey!. In advertising, public relations, corporate communication, offers, our website and yes, even in a simple email or SMS of information. We make everything easier with hey!
+
+Brand personality: simple, spontaneous, bold, open, direct, caring, smiling, positive & sincere.
+
+Rules:
+
+= short, clear, informal sentences, no jargon.
+
+“ "tu”" in FR and "je" in NL.
+
+= anglicisms (e.g. Let's go! in NL)
+
+= hey! is the correct denomination (e.g. App My hey!, My hey!-app)
+
+“ informal: talk in we, us, on, we
+
+= no period after hey! at the end of a sentence (hey!.)
+
+= other punctuation marks (,:;?-) allowed
+
+= bullets: only one dash in the beginning, with a space, no punctuation or capital letter (e.g. - example)
+
+= no punctuation on capital letters (e.g. À ;)
+
+EXAMPLES:
+
+= hey!
+
+My Hey!-app
+= your My hey! (= Customer zone)
+
+
+URL
+
+Greeting
+
+Closing
+
+Signature
+
+Legal entity
+
+Do you have a question? Heb je een vraag? heytelecom.be/nl
+
+Tu as une question ? heytelecom.be/fr
+
+Personalize: Good morning, Hello, Good evening, …
+
+o When you are handling a conversation transferred by the ChatBot
+
+o If analysis is needed:
+
+- Good morning, I took over the conversation, if I understood correctly the problem is XXXXXXXX
+
+- Hi, I see that the digital assistant was not able to help you :-(, don't worry, I'm taking over
+- Agent can personalize the greeting message
+
+For SoMe conversations:
+0 Just personalize and do not use hey as a greeting message but Good morning, Hello, Good evening, …
+
+Have a nice day!
+
+Passe une belle journée !
+See you soon!
+
+A bientôt !
+
+Take care!
+
+First name of agent
+
+hey!/Orange Belgium nv/s.a.
+
+
+TONE OF VOICE
+
+Tone cf voice is hovs we commuricate,
+
+andis deeplyy afigned with our brand personsfitu
+Our tons of voice marifests itself in every experisnce
+paoopla havo wth heyl In advartising, PR, corporate
+communication, offers, on our website and yes, even
+in à simple emai or informational ems.
+
+TONE OF VOICE
+
+On se parte On se parle
+simplaement spontanëment
+
+facäement aisomert
+cisirament naturallament
+diectement tranquilament
+
+Wij praten
+
+heu
+
+Si le site web est inaccessible, nous ne pouvons pas activer la ligne du client : nous l’invitons à réessayer ultérieurement.
+Important : montrez de l’empathie et dites que vous comprenez la situation, mais que notre service informatique fait le nécessaire pour résoudre ce problème le plus rapidement possible.
+
+FAQ
+
+Ma consommation et ma facture
+
+Tout comprendre sur ta S UARE : Tout savoir sur la
+Appeler via WiFi ; L
+facture ? réduction jeunes !
+
+Achats multimedia, SMS et
+numéros Premium payants :
+mode d'emploi !
+
+Je voudrais changer de
+numéro d'appel
+
+Je voudrais suspendre
+temporairement mon
+abonnement
+
+Je voudrais arrêter mon
+
+abonnement >
+
+Quelle est la différence entre
+le roaming et l'international
+
+Questions techniques
+
+Configurer mon GSM
+
+Je ne sais plus surfer / aller sur
+internet / utiliser ma 4G
+
+Infos utiles
+
+My hey! : comment se
+connecter et que puis-je
+y voir ?
+
+Comment retrouver mon
+code PIN ou PUK ?
+
+Je voudrais mettre mon
+contrat à un autre nom /
+transférer mon contrat
+
+J'ai reçu ma carte sim.
+Comment l'activer ?
+
+Le prorata sur ma facture,
+c'est quoi ?
+
+Comment adapter mon plan
+tarifaire ?
+
+messages
+
+Je ne sais plus envoyer de
+
+Je ne reçois plus d'appels
+
+Bon à savoir : pas de
+mauvaises surprises sur
+ta facture
+
+Qu'est-ce que le
+phishing ?
+
+Je viens de commander. Dans
+quel délai sera-t-il actif ?
+
+J'ai demandé un nouveau
+numéro. Comment le
+connaiître ?
+
+Puis-je conserver mon numéro ; ;
+> Je ne reçois pas de facture Ma messagerie vocale
+
+J'ai payé ma facture mais j'ai
+des questions
+
+Je n'ai plus de data. Que
+dois-je faire ?
+
+Je ne sais plus appeler
+
+Je ne peux pas envoyer de SMS
+vers des numéros courts
+
+Mon GSM est volé /
+perdu. Que dois-je faire ?
+
+Je voudrais adapter mes
+données personnelles
+
+ASTUCES ET ARTICLES DE LA COMMUNAUTE
+
+Mon numéro et mon mobile
+
+Mon numéro et mon mobile
+
+Comment activer mon numéro
+
+Comment retrouver mon code Pin
+Puk
+
+Mon numéro et mon mobile
+
+Comment effectuer un transfert
+d'abonnement ?
+
+Mon numéro et mon mobile
+
+Consommation et facture
+
+Tu te poses des questions au
+niveau de ta commande mobile
+et de son activation ?
+
+Comment gérer ta facture ?
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Consommation et facture
+
+Question Technique
+
+Question Technique
+
+Question Technique
+
+Question Technique
+
+Trucs et Astuces pour faire des
+économies
+
+Que se passe-t-il quand tu es en
+voyage en Europe ?
+
+Est-ce que je paie quand j'appelle
+à l'étranger ?
+
+Ta facture est plus élevée que
+prévu ?
+
+Comment ne plus rater une
+facture ?
+
+Qu'est ce qu'un numéro Premium
+?
+
+Quelle est la différence entre le
+Roaming ou l'international ?
+
+Comment contrôler sa
+consommation data ?
+
+Comment effectuer un
+changement de plan tarifaire ?
+
+La paiement en ligne pour une
+réactivation plus rapide
+
+Tu as un problème avec ton WiFi
+?
+
+Que faire en cas de soucis de
+réseau mobile ?
+
+Trucs et Astuces pour améliorer ta
+connexion Internet
+
+Des soucis avec tes SMS ?
+
+CHARTE DE COMPORTEMENT - DISCOURS HAINEAUX
+
+Lorsque le client devient “agressif” ou a un comportement qui n’est pas toléré, vous pouvez renvoyer le client à ce site web : https://pasici.be/
+
+Rappel des règles de comportement social pour nos clients
+
+- Etre respectueux
+
+- Ne pas tenir de propos discriminatoires
+- Ne pas tenir de propos à caractère diffamatoire
+
+- Ne pas poster de commentaires répétitifs à des fins commerciales (spam)
+
+- Ne pas communiquer d'informations privées ou confidentielles
+- Ne pas tenir de propos haineux, agressifs, menaçants, injurieux, vulgaires, obscènes….
+- Ne pas tenir de propos contraires à la loi en vigueur
+- Être pertinent : postez votre question au bon endroit en utilisant la barre de recherche.
+
+- Les messages vides et les phrases qui n'ont pas de sens seront supprimés
+
+- Postez votre message dans la bonne catégorie. Attention, la catégorie Tribe Lounge n'est pas faite pour les questions commerciales et
+
+
+techniques
+- Utilisez des titres complets
+
+- Tous les employés Orange Belgique présents sur la communauté sont clairement identifiés. Si ce n'est pas le cas, signalez-le-nous.
+
+DEMANDE DE PARTENARIAT
+
+Si quelqu'un nous contacte pour un partenariat avec hey!, veuillez le rediriger vers cette page sur le site web :
+
+# _ https://www.heytelecom.be/fr/devenir-partenaire-hey
+
+H _ https://www.heytelecom.be/nl/word-partner-hey
+
+SERVICE MANAGEMENT
+
+Les options suivantes peuvent être effectuées par nous pour les clients :
+
+- Changement de numéro de téléphone
+- Le Payment Responsible peut être changé
+
+- Déblocage des achats multimédias (uniquement pour les votes TV et les tickets de bus)
+
+- Blocage Data à 50 € (c'est un montant fixe, pas possible de choisir un autre montant pour le blocage)
+- Le National Data Control ne peut pas être supprimé. Il est par défaut limité à 50 euros.
+
+- Travel Data Control : Il est par défaut limité à 60 euros ( le client NE peut pas modifier le montant via l'application, uniquement possible via Salesforce)
+
+NOUVELLE ACTIVATION
+
+Demande/Options/Services
+
+Multimedia Purchases
+Barring
+
+Premium Calls Blocking
+
+Number defined by the
+mobile operator
+
+MNP
+
+Directory services
+publication
+
+Barring Incoming Calls in
+Roaming
+
+Barring International
+Outgoing Calls
+
+Belgium Coverage
+World Coverage
+EU Extended Coverage
+
+Neighbour Count Coverage
+
+Payment Responsible
+Proration Cancellation Flag
+Special price -5 €
+
+Promo 12 months
+
+Les agents peuvent
+(dés)activer l'option/le
+service
+
+Activé par défaut
+
+Oui
+
+GERER LES OPTIONS
+
+Les agents peuvent
+Demande/Options/Services | (dés)activer l'option/le
+service
+
+Activé par défaut, mais
+peut être débloqué à la
+demande du client.
+
+Premium Calls Blocking
+
+Multimedia Purchases (Créer un case :Change-
+Barring Mobile-Premium
+Calls/SMS unBlocking)
+
+Directory Service publication
+
+Travel Data Control
+
+Double Data 1 month_20GB
+Double Data 2 months_20GB
+
+Oui/Non
+(La promotion jeunes ne
+Youth reduction peut être ajoutée qu'aux
+clients ayant moins de
+26 ans)
+
+Proration Cancellation Flag
+
+Barring Incoming Calls in
+Roaming
+
+Barring International
+Outgoing Calls
+
+World coverage
+
+
+l E-Invoice Notify Me l
+Changement de MSISDN ( numéro)
+
+Les agents peuvent
+Demande/Options/Services | (dés)activer l'option/le
+service
+
+Number defined by the
+mobile operator
+
+Oui
+
+Easy number Oui (par Retention)
+
+QUAND PEUT-ON ENCODER MANUELLEMENT UNE COMMANDE HEY ! DANS
+SALESFORCE ?
+
+Si le client ne parvient pas à encoder sa demande sur le web pour les raisons suivantes :
+
+= Erreur avec sa carte d'identité
+
+= Problème de scoring mais que tout a été réglé de notre côté
+
+Dans ce cas, vous pouvez introduire |la demande du client via SF afin de voir si elle passe de votre coté. si aucune anomalies, vous pouvez lancer l'activation
+pour le client.
+
+CONVERSATIONS HEY! DANS KHOROS
+
+Comment reconnaître une conversation hey! Chat ?
+
+- Tag : hey! Chat
+- Tag Bot response
+- Brand messenger : Li-Bot Agent (chatbot)
+
+Prioricy °.0.0 Status Ciosed, Cosureatter penoing - Assigned To NaomiVan Mullem #  Due Overdue
+hey-NL Cha
+GWeb | Agent ViewRespanse | M BetResponse M StandardBor Handof! @Privare | Cable  FriendTag  AskName _ Ask Number
+Invotid Number | Received Unval Number | fMecerveé Numiber | Handover
+» Daanpape | Private PR @ !
+
+m % Selecteer sen van de optes oû stel |e vrase In een borte rn
+
+Der 11001 — SHIAM 7
+
+La queue correcte pour cette conversation, en fonction de la langue ou de la question, est la suivante :
+Question commerciale (PAS de problème de cable) :
+
+- Hey - FR chat Conv pour les conversations FR
+- Hey NL Chat NEW pour les conversations NL
+
+Pour les problèmes cables :
+
+Exemple : J'ai un problème avec mon WIFI, mon modem ne fonctionne pas, je n'ai pas d'internet, …
+
+- Hey- chat cable NL
+- hey - Chat cable FR
+
+=> Si
+
+**Correcte tekst:**
+
+Toute tranquillité, change de
+smartphone possédant les nouvelles
+technologies 4G/5G.
+
+**FAQ**
+
+**QUE FAIRE SI VOUS RECEVEZ DES QUESTIONS À CE SUJET ?**
+
+Vous pouvez utiliser les arguments suivants pour expliquer la situation au client :
+
+* « Le réseau 3G que tu utilises pour appeler et surfer avec ton GSM actuel va graduellement disparaître en Belgique. »
+* « Résultat : le client passera sur le réseau 2G et perdra en qualité de connexion, surtout pour surfer. »
+
+**Pourquoi le réseau 3G va-t-il disparaître ?**
+
+* De moins en moins de personnes ont un GSM qui utilise le réseau 3G.
+* Les technologies 4G et 5G consomment moins d'énergie, offrent une connexion plus fiable et stable, et une bien meilleure expérience de surf.
+
+**Corrections ortographiques et grammaticales :**
+
+. . ‚ https://community.heytelecom.be/t5/lets-nieuws/Tips-en-
+I
+
+Verbruik en factuur Tips en tricks om geld te besparen! tricks-om-geld-te-besparen/ba-p/1389
+https://community.heytelecom.be/t5/lets-nieuws/Wat-
+
+Verbruik en factuur Wat gebeurt er wanneer je in Europa reist? gebeurt-er-wanneer-je-in-Europa-reist/ba-p/1850
+
+https://community.heytelecom.be/t5/lets-nieuws/Moet-ik-
+
+Verbruik en factuur Moet ik betalen als ik bel in het buitenland ? betalen-als-ik-bel-in-het-buitenland/ba-p/1891
+
+https://community.heytelecom.be/t5/lets-nieuws/Je-factuur-
+is-hoger-dan-verwacht/ba-p/1923
+
+Verbruik en factuur Je factuur is hoger dan verwacht …
+
+https://community.heytelecom.be/t5/lets-nieuws/WAat-is-een-
+
+Verbruik en factuur Wat is een premium nummer? premium-nummer/ba-p/2057
+
+https://community.heytelecom.be/t5/lets-nieuws/Hoe-mijn-
+
+Verbruik en factuur Hoe mijn facturen betalen facturen-betalen/ba-p/2071
+
+https://community.heytelecom.be/t5/Blog/Roaming-of-
+
+Verbruik en factuur Roaming of internationaal bellen? internationaal-bellen/ba-p/4435
+
+
+https://community.heytelecom.be/t5/Blog/Online-betaling-
+voor-snellere-reactivering/ba-p/3614
+
+Verbruik en factuur Online betaling voor snellere reactivering!
+
+Hoe kun je je dataverbruik onder controle croruik en Tactuur houden ? https://community.heytelecom.be/t5/Blog/Hoe-kun-je-je-
+
+Verbruik en fact
+dataverbruik-onder-controle-houden/ba-p/2503
+
+. Hoe weet ik zeker dat hey! mijn betaling https://community.heytelecom.be/t5/Blog/Hoe-weet-ik-
+
+Verbruik en factuur ® .
+
+ontvangen heeft? zeker-dat-hey-mijn-betaling-ontvangen-heeft/ba-p/2089
+
+Technische vraag Wat 'kan' ik doen als ik slechte mobiele https://communnty_heyte ec9m:be/t5/Blog/Wat-kan-nk-doen-
+verbinding heb ? als-ik-slechte-mobiele-verbinding-heb/ba-p/3714
+
+https://community.heytelecom.be/t5/Blog/Heb-je-
+
+Technische vraag Heb je problemen met je WiFi-verbinding? problemen-met-je-WiFi-verbinding/ba-p/3165
+
+Tips en tricks om jouw internetverbinding te https://community.heytelecom.be/t5/Blog/Tips-en-tricks-om-
+
+Technisch
+ecnnische vraag verbeteren! jouw-internetverbinding-te-verbeteren/ba-p/2935
+
+1.7. SOCIALE GEDRAGSCODE - HAATSPRAAK
+
+Indien een kant zich niet houdt aan de regels en zich gedraagt op een manier die niet getolereerd wordt, kan je de klant verwijzen naar deze
+website: https://hierniet.be/
+
+Reminder van de sociale gedragsregels voor onze klante n
+
+- Toon respect voor elkaar
+
+- Gebruik geen discriminerende taal
+
+- Gebruik geen beledigende taal
+
+- Post geen repetitieve reacties voor commerciële doeleinden (spam)
+
+- Deel geen persoonlijke of vertrouwelijke gegevens
+
+- Gebruik geen haatdragende, opruiende, bedreigende, lasterlijke, vulgaire, obscene taal
+
+- Zeg geen dingen die in strijd zijn met de wet
+
+- Zorg ervoor dat je vraag relevant is, en voorkom herhaling van vragen
+
+- Lege berichten worden verwijderd
+
+- Plaats jouw vraag in de juiste categorie, de categorie Tribe Lounge is er niet voor technische en commerciële vragen
+- Gebruik volledige titels
+
+- Alle aanwezige werknemers van Orange België op Orange Tribe zijn duidelijk zichtbaar. Als dit niet het geval is, laat het ons dan weten
+
+Terug naar boven
+
+1.8. AANVRAGEN VOOR EEN PARTNERSCHAP MET HEY!
+
+Als iemand contact met ons opneemt voor een partnerschap, stuur de persoon dan door naar deze pagina op de website:
+
+https://www.heytelecom.be/fr/devenir-partenaire-hey
+https://www.heytelecom.be/nl/word-partner-hey
+
+Terug naar boven
+
+1.9. SERVICE MANAGEMENT
+
+De volgende opties kunnen voor hey! klanten uitgevoerd worden door agenten:
+
+
+Wijziging van telefoonnummer
+
+- Payment responsible wijzigen
+
+- Deblokkering van Multimedia aankopen (alleen voor TV-stemmen en bus tickets)
+
+- Data blokkering op 50€ ( dit is een vast bedrag, het is niet mogelijk om een ander bedrag voor blokkering te kiezen)
+National Data Control kan niet verwijderd worden. Het staat standaard ingesteld op 50€ .
+
+Travel Data Control: standaard ingesteld op 60€. (De klant kan het zelf NIET aanpassen via de Applicatie, maar het is wel mogelijk in
+Salesforce)
+
+NIEUWE ACTIVATIE
+
+Kunnen agenten deze
+Aanvraag/Optie/Service optie/dienst
+activeren?
+
+Multimedia Purchases
+
+Barring Standaard geactiveerd
+
+Premium Calls Blocking
+
+Number defined by the
+mobile operator
+
+MNP
+
+Directory services
+publication
+
+Barring Incoming Calls in
+Roaming
+
+Barring International
+Outgoing Calls
+
+Belgium Coverage
+World Coverage
+EU Extended Coverage
+
+Neighbour Count
+Coverage
+
+Payment Responsible
+
+Proration Cancellation
+Flag
+
+Special price -5€
+Promo 12 months
+Promo 24 months
+Promo -50% 1 month
+Promo -50% 3 months
+
+Subscription 1 month for
+1€
+
+Subscription 2 months
+for 1€
+
+Double Data 1
+month_20GB
+
+Double Data 2
+months_20GB
+
+
+Ja/Nee
+(Jeugdpromo kan enkel
+Jeugdpromo toegevoegd worden
+voor klanten jonger dan
+
+26))
+E-Invoice Notify Me
+
+OPTIES BEHEREN
+
+Kunnen agenten
+Aanvraag/Optie/Service | deze optie/dienst
+activeren?
+
+Standaard
+geactiveerd, maar kan
+op verzoek van de
+klant gedeblokkeerd
+worden.
+
+Premium Calls Blocking
+
+(Maak een case aan:
+Change-Mobile-
+Premium Calls/SMS
+unBlocking)
+
+Multimedia Purchases
+Barring
+
+Directory Service
+publication
+Payment Responsible
+Special price -5€
+Promo 12 months
+Promo 24 months
+Promo -50% 1 month
+Promo -50% 3 months
+
+Ja
+Subscription 1 month for
+1€
+Subscription 2 months for
+1€
+Travel Data Control
+Double Data 1
+month_20GB
+Double Data 2
+months_20GB
+
+Ja/Nee
+(Jeugdpromo kan
+Jeugdpromo enkel toegevoegd
+worden voor klanten
+jonger dan 26j)
+
+Proration Cancellation
+Flag
+Barring Incoming Calls in
+Roaming
+
+Barring International
+Outgoing Calls
+
+World coverage
+
+
+l E-Invoice Notify Me l
+Verandering van MSISDN (nummer)
+
+Kunnen agenten deze
+Aanvraag/Optie/Service optie/dienst
+activeren?
+
+Number defined by the
+mobile operator
+
+Ja
+
+Ja (enkel door
+
+Easy number ‚
+Retention)
+
+Terug naar boven
+
+1.10. WANNEER KUNNEN WE EEN HEY! ORDER ENCODEREN IN SALESFORCE?
+
+Als de klant zijn aanvraag niet kan coderen op het web om de volgende redenen:
+
+m Fout met hun identiteitskaart
+
+s Scoringsprobleem maar alles is opgelost aan onze kant
+
+In dit geval kunt u de aanvraag van de klant invoeren via SF om te zien of deze aan uw kant slaagt. Als er geen afwijkingen zijn, kunt u de activering voor de
+klant starten.
+
+Terug naar boven
+
+1.12. HEY! CONVERSATIES IN KHOROS
+
+Hoe kan je een hey! Chat conversatie herkennen?
+
+- Tag: hey! Chat
+- Tag Bot response
+- Brand messenger: Li-Bot Agent (chatbot)
+
+Priority °.I.. Status Cicsed, Cosue afae penaing AsslgnedTe NaomvanMullem ® Due Overdua
+hey-NL Cha
+KiWeb AgentVienRespanse BBotReponse MStandardBotHandoMl BPrivate Cabie FriendTag AskName Ask Number
+Inveid Number ReceivedUnval Number NeceivedNumber Handover
+‚  Daan pspe m Meru ©t
+ö Orz22023m9524M V®iog
+
+
+**For monocards**
+
+For a SIM card renewal (only the physical SIM card), the customer can do it himself in his My hey! customer zone, in the tab ‘My product’.
+
+Mijn account Mijn producten Mijn facturen Mijn voordelen Mijn profiel
+
+80 GB
+BEGINDATUM CONTRAC
+Mijn verbruiksgegevens bekijken Mijn abonnement wijzigen Zie meer v 19.10.2021
+
+Annuleren
+
+Simkaart kwijt
+
+Sim-opschorting
+
+Heb je een vraag? Een probleem?
+Bekijk onze FAQ PUK Code
+
+> Waar vind ik mijn PUK code? PCa -tue-e-icei Simkaart opnieuw activeren
+> Wat is phishing? > Hoe pas ik mijn tare’
+> Geen verrassingen op je factuur
+> Bekijk alle veelgestelde vragen
+
+**For multi-cards**
+
+Important: This is a temporary work method for multi-cards only.
+
+The customer will be able to order their new SIM card on My hey! as of November.
+
+Be careful, the customer cannot go to a shop to obtain a new SIM card!
+
+If the customer contacts the Customer Service, the case must be assigned to ENTRA, which will do the necessary.
+
+!! The customer will not have to do the SIM swap themselves, the SIM card will already be activated at the time of sending. !!
+Please use the following PeopleSoft levels:
+
+= Level 1: Internal Use
+= Level 2: Entra Web
+= Level 3: Entra sends SIM
+
+>» Customer Information
+
+Case Information
+
+Case Type: Internal Use
+
+Quick Code: Entra Web
+
+Level 1: Internal Use
+Level 2: Entra Web
+
+*Level 3: Entra sends SIM Vv
+
+Choose the PeopleSoft product based upon the chosen tariff: hey! mobile S (5GB) / hey! mobile M (10GB) / hey! 20GB Boostés (40GB) / hey! mobile L (50GB) / hey! mobile XL (160GB)
+
+Write in the worklog that this concerns a hey! customer and enter the following information:
+= Name + First name
+
+= Delivery address + postal code
+
+= Product: hey!
+
+Ask the customer to contact us again as soon as he receives the SIM card.
+
+Once received, create a case with the following levels and assign the case to BO.
+= Level 1: Change
+= Level 2: Mobile
+
+= Level 3: Sim Renewal
+
+| Case Information
+
+Case Type:
+Quick Code:
+Level 1: Change
+
+Level 2: Mobile
+
+*Level 3: [SimRenewal “|S
+
+Back to the top of the page
+
+**4.4. E-SIM**
+
+It is not possible to activate or make a SIM swap hey! subscription with e-SIM.
+
+Back to the top of the page
+
+**4.5. 5G**
+
+5G is the 5th generation of mobile networks, succeeding 2G, 3G, and 4G technologies.
+5G is available for our hey! tariffs too.
+
+In order for the customer to experience 5G, he will have to meet some conditions, for this => please consult the WM MOBILE -
+5G
+
+Back to the top of the page
+
+**4.6. VOLUNTARY SUSPENSION**
+
+If the customer wishes, we have the possibility to suspend his line temporarily in ' Voluntary suspension ' in Salesforce.
+
+ATTENTION:
+
+For hey! Internet => A Voluntary Suspension is technically not possible on the Internet. From a commercial point of view/churn risk (for example in case of a move or customer is temporarily abroad), you can offer a Voluntary Suspension in the following way:
+
+- Give an OCC of max 3 months (1 x / year allowed)
+- No prolongation possible!
+- The line remains active (no suspension in BSCS or Salesforce)
+
+ca 2 an.
+333 Sales
+
+a
+
++
+
+a
+
+Grate Stitus IN PROGRESS Order Stage-ORDER EXECUTION
+Cranston Deter 2211/2002 14s Segnererey RESOLNTA
+r Other Description Ordert_ive Nuriber Orcartine Type Oertred Order_ine Type Prune Nurder Sam Card Murrber Crdéed ine Stage Orsertave Statue Orta
+
+NETWORK
+
+wet $ 0 Beacon STARS COMPLETED
+
+SeiocsLnselect ail molly
+
+* * Hor
+
+Add a mote | Aches Carne! Ocetne + | Suter
+
+Se Og se 6
+
+Orttertiees Inforrmason Work Pants Lent
+= Erno i
+Cee fam tcmasco | ecae | reste Ad o hn
+Type OF Cuct:Peatpwed Prone Number S205 2074 + Emor Code Eret Descnptos Assigned Growo (aber
+Acton Type ods Fngson.CO- Vokstary suspersion E — poet | =
+OnderLine TypeSusperd Dortwed Orderline Type Susnend No china to display
+
+Attention, an amount will be added in BSCS, please make a credit note of this amount, the reactivation following the "Voluntary suspension" is free.
+
+ionce ; 0: 0.00 €: 18539088:0CC: 1.483052974.437°27012022 27/01/2022 11
+
+= RAmtire 4 “
+fa contra: 22/1 1/2
+
+fiance} n! N NN €! 485AANAR-OCC-1°4RIANKIATA-AI7‘P7N1INIS PTINAIONID | 4
+
+Back to the top of the page
+
+**4.7. IDENTIFICATION**
+
+From now on, to be able to connect to his My hey! customer zone, the customer must have an active Itsme account.
+This applies to every order, SIM Swap...
+
+If the customer does not have an Itsme account, you can direct the customer to the official Itsme page => see link, but the goal is not to help him do so.
+
+Back to the top of the page
+
+**4.8. ERRORS**
+
+Here is the recap of the errors we have today on the eshop.
+
+Error if birthdate and NRN on t mat h
+
+= "Tout le monde fait des erreurs. Ta date de naissance doit correspondre aux 6 premiers chiffres de ton numéro de registre national."
+
+= "ledereen maakt wel eens fouten. ? Je geboortedatum bestaat uit de 6 eerste cijfers van het rijksregisternummer."
+
+Error if VAT number not ok => Scoring response
+
+= "Oups, une petite faute dans le formulaire. Tu peux recommencer a compléter tes données. Vérifie bien ton numéro de TVA avant de confirmer ta commande."
+
+= "Oops een klein foutje in het formulier. Je kan opnieuw je gegevens invullen. Kijk goed je btw-nummer na vooraleer je bestelling te bevestigen."
+
+Rest of cases => Scoring response (the ID is the reason of the declined scoring).
+
+= "Quelque chose ne va pas... Pas de panique... Tu peux recommencer a compléter tes données. Vérifie bien tes infos d'identité avant de confirmer ta commande."
+
+= "Er liep iets mis. Geen paniek! Je kan opnieuw je gegevens invullen. Kijk goed je identiteitsgegevens na vooraleer je bestelling te bevestigen. "
+
+So normally (unless we have an incident) if you have the "something is wrong...", it's a scoring problem.
+
+The customer has a problem with his ID card, it will be the same if you would try to enter it manually in Salesforce (you would be "rejected").
+
+We won't really be able to "help" the customer fill it out better.
+
+Back to the top of the page
+
+**4.9. HOW TO SEND THE CONTRACT TO THE CUSTOMER**
+
+Please consult the WM: B2C Salesforce > Tab ‘hey!': 2.7 Email contract to the customer
+
+Back to the top of the page
+
+**4.10. TAKE OVER**
+
+If the customer has two different hey! Customer Codes (7 for mobile and 1 for FIX / or two different for mobile) and wants to do an Internal Take Over?
+
+=> Perform the Internal TO modification directly in Salesforce for the customer (Only when the customers' names are the same)!
+
+If the names are NOT the same: Redirect the customer to the website where he has to fill in the webform.
+
+Link to the webpage: “Je voudrais mettre mon contrat a un autre nom / transférer mon contrat"
+
+Link to the webform: https://www.heytelecom.be/fr/modifierlenom
+
+Back to the top of the page
+
+**4.11. P2P/ SUSPENSION/ REACTIVATION/ PAYPLAN**
+
+- We DON'T propose the P2P option to our hey! customers!
+
+- If the customer is suspended => Ask the customer to pay his invoice as soon as possible and inform him that the reactivation of his line will be done automatically once we have received the payment
+
+- If the payment is visible in IMX but the line is still not reactivated => Perform the reactivation in Salesforce for the customer and confirm him the SLA.
+
+How to reactivate a hey! Customer in Salesforce?
+
+Step 1:
+
+SUSPENDED ASSETS
+
+Step 2: Launch the reactivation
+
+Step 3: Create contract
+
+"Er liep iets mis. Geen paniek! Je kan opnieuw je gegevens invullen. Kijk goed je identiteitsgegevens na vooraleer je bestelling te bevestigen."
+
+Alors normalement (sauf si nous avons un incident) si vous avez le "quelque chose ne va pas…" c'est un problème de scoring.
+
+Le client a un problème avec sa carte d'identité, ça sera la même chose, si vous deviez essayer de l'encoder manuellement dans SalesForce (vous seriez "rejeté").
+
+Nous ne pourrons pas vraiment "aider" le client à mieux le remplir.
+
+Début de la page
+
+4.9. COMMENT ENVOYER LE CONTRAT DU CLIENT
+
+Consultez le WM: B2C Salesforce > Tab "hey!" : 2.7 Email contract au client
+
+4.10. TAKE OVER
+
+Si le client a 2 codes clients hey ! (1 pour mobile et 1 pour FIX / ou 2 différents pour mobile) et qu'il souhaite effectuer un Take
+Over interne ?
+
+=> Effectuez le TO interne directement dans Salesforce pour le client (uniquement lorsque les noms des clients sont
+identiques) !
+
+Si les noms sont différents: veuillez diriger le client vers le site web pour introduire la demande via le formulaire web.
+
+Lien de la page web: "Je voudrais mettre mon contrat à un autre nom / transférer mon contrat"
+
+Lien vers le formulaire: https://www.heytelecom.be/fr/modifierlenom
+
+Début de la page
+
+4.11. P2P/ SUSPENSION/ REACTIVATION/ PAYPLAN
+
+- L'option P2P n'est pas proposée pour les clients hey !
+
+- Si le client est suspendu => invitez le client à régler asap sa facture et informez que la réactivation se fait automatiquement
+une fois que le paiement est réceptionné
+
+- Si le paiement est visible dans IMX et que la ligne du client n’est toujours pas réactivée => faites la réactivation dans SF et
+confirmez le SLA au client
+
+Comment réactiver un client hey ! dans Salesforce ?
+
+SUSPENDED ASSETS
+
+MSISDN — Activation Date St
+n Type
+> hey Postpaid 0032492 19-10-2021 Suspend CO-Soft 19-10-2023 11.22 @
+075946 ed Suspensi
+on
+
+2: Cliquez sur Réactivation
+
+3: Cliquez sur "Create contract"
+
+az
+ON-16634135 L ETE
+
+20n mt Ss œ e vere sm e
+A IR PRLT . MEF Eccoomt — —orhgstt 0m Ccrmptetrt sT - TR JREE wrccar!
+
+Pars ds és d mt | 8
+
+e el rrs «
+
+, mmn srr = bort = = p 6
+=m s00 sé
+
+— Upcemng 6 Coesue
+p P GAUVOET - o40 snatd é « “ ‘
+nescscen se urce
+se Tt en
+E cd ce Bdtdté Ralddii ce ÀE dl
+
+sr ds —0 e cE t
+
+‘ ‘ L e e d e R e R e é d
+
+. _
+- uà
+
+4: Une fois le contrat créé, vous devez le signer manuellement !
+
+5: Cliquez sur le crayon à côté de Statut ' Draft ‘
+
+Commet
+
+05362999
+Accocaes Nn sn Conrecrve Mestage
+FLEUR DUPREZ - HEY Account Draft
+
+Related Details
+
+Coetract ué Bccouat Mame
+t4 <amtis AOUINI & FLEUR OUPREZ - HEY Accoont ‘
+Gorerner Mayrriber
+
+05362908
+
+Srarta Véth Thre Cymtertes Dan
+
+
+6: Sélectionner d'abord ‘ Shared with customer ‘ et sauvegarder.
+
+Account Marre sn Conretin Mercage
+FLEUR DUPREZ - HEY Account Shared \Vieh Customer
+
+ETE
+— _— _ _ _ _ " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " — — — — — — — —— — — — — — — _ — —— —— m"
+Relatoc Details
+
+accourr “arre
+
+Comrac rsrtes
+
+05342098
+Drarut Wah Tne Curtomer Ds
+1019/2023 ‘
+Fres bace Fectanz soyner sur.s
+‘
+Faecr Dan
+7: Une fois que le statut est adapté à " Shared with customer” , vous devez ensuite sélectionner ‘ Signed . Sauvegardez.
+FLEUR DUPREZ - HEY Account Sgret
+Retated Details
+Contésct Curnes
+Ÿ HEY M ‘ ‘
+Orser
+[oMRÉLERREL
+
+Sharud With Tne Curtemer Date
+Tarra/2003 ‘
+
+Price 3004 Becrpe< paptrent sratut
+
+8: La réactivation est maintenant effectuée.
+
+| pa c
+| ON-14634135
+
+Accourt Mare Geges Srat Date Vper Cranoet Derd Code manre
+FLEUR DUPREZ - HEY Acccent 10/28/2023 STEL - TELERES srrccoo7
+Related Details
+starus accour d
+Submisson Successtu ‘ ‘
+Searcomsg 0 44 orser Accoure 5
+‘ OUtENOOCOOSEGOQ
+Docer 75e Exbeg Accouet
+Resume KY ng - 61117 TéasT5Q ‘
+
+Tutperaze Type
+
+Début de la page
+
+4.12. SUSPENSION APRÈS UN VOL : QUOI FAIRE ?
+
+Si un client appelle pour suspendre sa ligne après le vol ou la perte de son téléphone, ne le renvoyez PAS vers le chat !
+
+Vous pouvez immédiatement faire le nécessaire dans Salesforce.
+
+4.13. SCAN ID DOC
+
+Lorsque vous recevez un avertissement dans Salesforce indiquant que vous avez besoin d'un scan de la carte d'identité du
+client, demandez au client d'envoyer une copie de sa carte d'identité à l'adresse suivante : id@orange.com.
+
+Taa Segment
+Prospect NL HEY Residential an van het identiteitsdocument is nodig om deze aanvraag door te sturen.
+
+ingegeven adres niet hetzelfde is als op het identiteitsdocument, is een scan van het bewijs van woonst ook nodig
+
+Début de la page
+
+4.14. FOREIGN ID
+
+Les clients disposant d'une carte d'identité étrangère (pas de carte d'identité belge) peuvent également demander un
+abonnement hey !
+
+L'ENTRA s'occupe de ces demandes.
+
+Début de la page
+
+**SMS'en**
+
+**€€** 31 par mois 079 €23 par mois
+
+**levenslang** levenslang
+
+**EPIC**
+
+Mobile Essentiai
+
+5 GB
+
+« 150 min & onbeperkt SMS'en
+
+Mobile Easy {0}
+
+10 GB
+
+* Onbeperkt bellen & SMS'en
+* 5G tot 200 Mbps
+
+Mobile Maxi @3;
+
+50 GB
+
++ Onbeperkt bellen en SMS'en
++ 5G tot 500 Mbps
+
+Mobile Unlimited @
+
+Alles onbeperkt
+
+« Onbeperkt data, bellen & SMS'en
++ 5G tot 1 Gbps
+
+Meer info @ Meer info @ Meer info @ Meer info @
+C]| Mijn budget beperken @ [:] Mijn budget beperken @ !Ì_] Mijn baadget beperken @
+Bespaar € 36 @ Bespaar € 120 @ Bespaar € 180 @
+€ 16,99 /maand 41999 € 16,99 /maand &29,99 € 19,99 /maand &49.99 € 3499 /maand
+gedurende 1 jaar gedurende 1 jaar gedurende 1 jaar
+YOUFONE
+
+200 min/sms 200 min/sms CO min/sms
+
+imaand /maand
+
+min/sms 200 min/sms 200 min/SMS Urametea C/D
+4G internet 1GB 4G Internet 10GB 4G inernaet 15GB
+Zolcng je contract loopt” Zolang je controct loopt” Zolong je centract loopt”
+PROXIMUS
+Aanbevolen
+Mobile Essential {obile Easy (î=;‘‚- Moble Maxí y Mobile Unlimited ®
+5 GB 10 GB 50 GB Alles onbeperkt
+
+« 150 min & onbeperkt sms en
+
+Meerinfa @
+
+|_| Mijn budget beperken @
+
+€ 16‚99 /maand
+
+« Onbepsrkt bsllen & zmien
+« 5Gtot ZOOD Mbps
+
+Meerinfo @
+
+|_l Mijn Dudget beperken @
+
+Bespaar €36 @
+
+41999 € 16,99 /maand
+
+gedurende 1 jaar
+
+= Onbeperkt bellen en smsen
+« 5Gtot 500 Mbps
+
+Meerinfo @
+
+|—I Mijn budget beperken @
+
+Baspaar €120 8
+
+é2999 € 1999 /maand
+
+gedurende 1 jaar
+
+« Onbeperkt data, bsllen & ZTS'en
+« SGtot 1 Gips
+
+Meer info @
+
+Bespaar € 180 @
+
+44999 € 34,99 /maand
+
+gedurende 1 jaar
+
+Mix Budget
+3GB
+
+250 minuten
+onbeperkt zms'en
+
+8 £!mnnü
+
+NEIBO
+
+Mix Comfort
+12GB
+
+onbeperkt minuten
+onbeperkt sms'en
+
+16 Eimaond
+
+Mix Relax
+36 GB
+
+‘onbeperkt minuten
+
+onbeperkt sms'en
+
+24€…
+
+2.3. FACTURATION / RECOUVREMENT / PAIEMENT
+
+Actions dans Salesforce pour les équipes Collection / Billing : voir WM iMX Homepage + WM Credit Control Homepage .
+
+ATTENTION EXCEPTIONS !!
+
+- Pas de P2P (Promise to Pay) pour les clients hey! !
+
+- Les clients seront bloqués à 50 € en national et 60 € en Roaming.
+
+- Les VAS et certains SMS Premium seront bloqués. Si le client le demande, nous pouvons le débloquer après l'avoir informé des coûts et risques, seulement 1 mois après l'activation et SI sa dernière facture est payée (pas de contestation possible).
+
+Un client Orange Prepaid qui devient hey!, se verra remboursé son crédit restant de sa carte prépayée sur sa première facture hey!
+
+Previous credits:
+There are no items to show in this view.
+
+Open Amount :
+0
+
+Customer segment:
+
+| Residentiel
+
+Type of Credit:
+
+| Cærdrt Note
+
+Line Of Business
+
+| Mobile Voice
+
+Notifications :
+
+| Vous devez sélectionner au moins 1 type de notification client, SMS ou mail !
+
+Un client en règlement collectif de dettes ne peut pas prendre un abonnement hey!. Il sera refusé par le scoring et aucune solution n'est possible, car il s'agit d'une marque purement numérique.
+
+Collective Debt Settlement ECA Bankruptcy Overview Invoices &
+Treatment => WM Treatment Payments => WM
+
+Procédure en cas de décès pour Credit IMX
+Payplan Refund
+Control => WM process
+
+Le compte bancaire est le même que pour les clients Orange.
+
+Il n'est pas possible d'ajouter/supprimer des services.
+
+
+UPDATE 24/06/2024: À partir de maintenant, le Payment Responsible Flag pour les clients hey! peut être ajouté au panier dans Salesforce !
+
+POUR FIRSTLINE:
+
+Il n'est plus nécessaire d'assigner un cas vers TechM !
+
+Ce produit peut être ajouté au panier lors de chaque nouvelle commande, Manage Options ou TP Change.
+Sous " INVOICE OPTIONS", cliquez sur " Add to Cart " à côté de " Payment Responsible "
+
+L
+
+° 0 ‘ ; *
+E-Invoice
+Notify Me
+
+Payment
+Responsible
+
+Ici vous trouverez un aperçu de la facture. Veuillez noter qu'il n'existe pas de facture xls disponible pour hey!
+
+Retour en haut de page
+
+2.4. FIDÉLISATION
+
+1) Pour une compensation en cas de problème technique / d'activation : Voir Compensation grid for Technical /
+Activation issues
+
+# 25 % de frais mensuels si moins de 7 jours
+= 50 % de frais mensuels si moins de 14 jours
+
+= 100 % de frais mensuels si plus de 14 jours
+
+2) Billshock:
+
+u Si le client a des problèmes avec l'application et est hors forfait : 50 % de réduction (facture fermée + facture en cours)
+
+E Si c'est la première fois, quelle que soit la raison : 50 % billshock
+
+Les WMs pour l'approche Rétention (et non pour l'application de la promo toolkit qui n'est pas d'application pour hey!):
+
+= Retention Homepage
+# Retention Financial Offers grid
+= Financial Offers@Partners
+
+u /Webcare@Partners
+
+Pour l'équipe MÉDIATION => Cliquez ici pour voir les conditions générales.
+
+ﬁ)_Churn- Questionnaire lorsque le_client veut quitter hey! ?
+
+Il est très important d'appliquer une approche de fidélisation pour les clients qui souhaitent nous quitter et de leur faire sentir qu'ils sont importants pour nous.
+
+Nous ne disposons pas d'un Churn Promo Toolkit, mais nous pouvons offrir de nombreuses solutions au cas où le client voudrait nous quitter.
+
+N'hésitez pas à faire la comparaison avec l'autre opérateur.
+
+Demandez-leur pourquoi ils veulent annuler leur abonnement :
+Par exemple:
+
+- "Désolé de lire que tu as l'intention de nous quitter :-( Pourrais-tu nous faire part de ton expérience ou de ton problème."
+
+- "Dommage que tu souhaites nous quitter :-( Tu pourrais me donner plus d'infos ?"
+
+On peut toujours intervenir avec des solutions telles que Billshock ou une correction de factures (si nécessaire),...
+Si vous ne parvenez pas à retenir le client => Envoyez le lien au client pour résilier son abonnement.
+
+Lien : https://www.heytelecom.be/fr/aide-et-support/mon-service-internet/déménagement/comment-résilier-ton-abonnement
+
+IMPORTANT :
+- Informez le client également que hey! n'a pas d'offre prépayée !
+- Informez le client qu'il va perdre son numéro si nous résilions le numéro.
+
+- Si le client est intéressé par un autre opérateur, demandez-lui de contacter l'opérateur concerné.
+
+Si le client fait la demande de résiliation via le Chatbot, il enverra immédiatement le client vers le formulaire de résiliation sur le web.
+
+Exceptionnellement : Si le client nous contacte car il nous informe qu'il a reçu un message d'erreur sur le site hey! pour la demande de résiliation, veuillez procéder comme suit :
+
+- Demander de partager le message d'erreur via le chat ou SoMed
+
+- Demander la raison de sa demande de résiliation (si feedback intéressant à partager avec votre TL).
+
+- Faites un full ID check avec le client avant de traiter sa demande.
+
+- Créer un cas Churn avec le Produit adéquat + traiter la demande de churn dans SF + clôturer le cas.
+- Rajouter le numéro de cas dans la conversation dans ‘internal note’.
+
+Retour en haut de page
+
+60 €. Tu recevras un SMS quand tu auras presque atteint cette limite. Infos et tarifs sur https://www.heytelecom.be/fr/roaming ou dans tes SMS reçus
+
+hey! : tu as atteint 80 % de ta limite de surf à l'étranger. Ta connexion internet se bloquera quand tu auras atteint 60 €
+
+hey! : tu as presque atteint ta limite de surf à l'étranger. Ta connexion internet se bloquera quand tu auras atteint 60 €
+
+hey! : tu as atteint la limite de surf de 60 € à l'étranger pour le mois de facturation en cours. Ta connexion internet est donc bloquée
+
+hey! : je hebt je surfvolume volledig opgebruikt. Vanaf nu surf je verder aan 0,01 €/MB of 10,24 €/GB tot 50 € bovenop je abonnement
+
+hey! : je hebt 15 € aan surfvolume buiten abonnement verbruikt. Bij 30 € sturen we je een volgende verwittiging. Volg je verbruik op My hey!
+
+hey! : je hebt 30 € aan surfvolume buiten abonnement verbruikt. Bij 50 € sturen we je een volgende verwittiging. Volg je verbruik op My hey!
+
+hey! je hebt voor 50 € gesurft bovenop je abonnement. Je hebt geen toegang meer tot het mobiele internet tot je volgende factuurperiode. Verder surfen? Ga naar My hey! en kies voor een tarief met meer surfvolume. Of surf via wifi-connecties
+
+hey! : je surft nu in het buitenland. Je kan maximaal 60 € uitgeven. We sturen je een sms wanneer je bijna aan je limiet zit. Info en
+
+tarieven: https://www.heytelecom.be/nl/roaming of hou je sms'en in de gaten
+
+hey! : je hebt nu 80 % van je surflimiet in het buitenland verbruikt. Denk eraan dat je internetverbinding wordt geblokkeerd zodra je 60 € hebt opgebruikt
+
+hey! : je hebt bijna je surflimiet in het buitenland bereikt. Denk eraan dat je internetverbinding wordt geblokkeerd zodra je 60 € hebt opgebruikt
+
+hey! : je hebt je surflimiet van 60 € in het buitenland voor deze factuurperiode bereikt. Je internetverbinding in roaming is nu geblokkeerd

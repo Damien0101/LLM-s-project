@@ -1,8 +1,7 @@
-
 import google.generativeai as genai
 import streamlit as st
 
-genai.configure(api_key='AIzaSyB20I_q31ElpEr3TxP0sI0tdKF8iwOZrEA')
+genai.configure(api_key='AIzaSyCyqvqdoZuqM7X-QYvMpQxt0wMixzXPH04')
 model = genai.GenerativeModel('gemini-1.5-flash')
 
 def role_to_streamlit(role):
